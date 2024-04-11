@@ -1,0 +1,43 @@
+﻿english-short,italian
+number,Risposta numero
+course,Nelle domande seguenti si parla del corso
+homework,I compiti on line sono  efficaci?
+howDIR,Come ti colleghi al corso DIR?
+whereDIR,Da dove ti  colleghi al corso DIR?
+R,Come giudichi l'utilizzo del software R?
+moodleProblem,Hai incontrato problemi tecnici nell'uso della piattaforma moodle?
+RstudioLocal,Hai scaricato R ed RStudio sul computer?
+RCloudorNot,Utilizzi RStudioServer (versione on line) anziché RStudioDesktop o R?
+pdfHtmlNotes,Usi gli appunti in formato pdf o html?
+forum,"Come cambieresti la gestione del Forum  o con cosa lo rimpiazzeresti? Come aumenteresti le interazioni didattiche studenti-studenti, studenti-docente?"
+socialCommunications,Social e comunicazioni
+eCommunications,Quale forma elettronica di comunicazione preferisci?
+videocalll,Quali app usi per videochiamate
+social,Che social usi?
+lectureType,Che modalità di lezione preferisci
+movies,Che piattaforma usi per vedere serie/film?
+eMeeting,Quale app usi per riunioni di gruppi
+you,Nelle domande che seguono si parla di te (ricordiamo che il questionario è  anonimo)
+preferredNumber,6. Numero favorito. inserisci un numero da 0 a 10
+transport,Come ti sposti principalmente?
+sport,Pratichi attività sportive?
+highschool,Che scuola superiore  hai frequentato
+birthYear,Inserisci anno di nascita (4 cifre)
+shoesNumber,Che numero di scarpe usi? (INTERO)
+videotime,Quante ore al giorno passi mediamente davanti a video di varia natura? INTERO
+siblings,Quanti fratelli o sorelle hai  (in tutto) escluso te?
+preferredColor,Quale è  il tuo colore preferito
+pet,Hai animali domestici
+hM,Altezza della  Madre (in cm)
+hP,Altezza del Padre (in cm)
+h,La tua altezza (numero intero in cm)
+soccerTeam,Per quale squadra  di calcio tifi (una sola parola)?
+hairColor,Quale è il colore dei tuoi capelli?
+eyesColor,Quale è  il colore dei tuoi occhi
+sex,Quale è  il tuo sesso biologico
+weight,Quanto pesi (in kg)? (numero intero)
+hobby,Hai qualcuno dei seguenti hobby? (le risposte sono una selezione di quelle fornite gli anni precedenti. Se mancasse il vostro hobby aggiungetelo come suggerimento.)
+birthMonth,Il tuo mese di nascita
+preferredPet,Il tuo animale preferito. (Le risposte sono una selezione di quelle fornite gli anni precedenti. In caso di mancanza aggiungerlo come suggerimento.)
+preferredFood,Il tuo cibo preferito: (le risposte sono una selezione di quelle fornite gli anni precedenti. In caso mancasse il vostro cibo favorito aggiungerlo come suggerimento.)
+remarks,Osservazioni e commenti? Aggiungeresti risposte a qualche domanda? Aggiungeresti domande?
