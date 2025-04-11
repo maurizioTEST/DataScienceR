@@ -1,0 +1,29 @@
+LOCALITA;DATA;TMEDIA °C;TMIN °C;TMAX °C;PUNTORUGIADA °C;UMIDITA %;VISIBILITA km;VENTOMEDIA km/h;VENTOMAX km/h;RAFFICA km/h;PRESSIONESLM mb;PRESSIONEMEDIA mb;PIOGGIA mm;FENOMENI
+Milano;1/2/2025;8;7;8;7;98;12;0;0;0;1026;0;0;pioggia
+Milano;2/2/2025;8;3;13;5;88;16;0;0;0;1021;0;0;nebbia
+Milano;3/2/2025;5;1;12;4;93;6;0;0;0;1023;0;0;nebbia
+Milano;4/2/2025;5;1;10;2;85;12;0;0;0;1028;0;0;nebbia
+Milano;5/2/2025;3;-1;9;3;95;5;0;0;0;1032;0;0;pioggia nebbia
+Milano;6/2/2025;3;-1;9;2;90;9;0;0;0;1032;0;0;pioggia nebbia
+Milano;7/2/2025;4;0;6;1;74;19;0;0;0;1030;0;0;NA
+Milano;8/2/2025;4;4;5;3;88;8;0;0;0;1029;0;0;pioggia
+Milano;9/2/2025;6;5;7;6;97;5;0;0;0;1028;0;0;pioggia
+Milano;10/2/2025;8;6;10;7;95;9;0;0;0;1026;0;0;pioggia nebbia
+Milano;11/2/2025;8;5;9;7;97;3;0;0;0;1024;0;0;pioggia nebbia
+Milano;12/2/2025;8;8;9;8;97;3;0;0;0;1021;0;0;pioggia nebbia
+Milano;13/2/2025;9;6;11;8;95;4;0;0;0;1017;0;0;nebbia
+Milano;14/2/2025;5;1;13;3;86;13;0;0;0;1012;0;0;pioggia temporale nebbia
+Milano;15/2/2025;4;-1;9;1;80;19;0;0;0;1018;0;0;nebbia
+Milano;16/2/2025;4;1;7;1;78;19;0;0;0;1015;0;0;NA
+Milano;17/2/2025;4;3;5;1;68;20;0;0;0;1019;0;0;NA
+Milano;18/2/2025;5;3;7;1;68;21;0;0;0;1022;0;0;NA
+Milano;19/2/2025;4;3;6;0;60;20;0;0;0;1029;0;0;NA
+Milano;20/2/2025;5;0;9;1;70;19;0;0;0;1030;0;0;NA
+Milano;21/2/2025;6;0;12;2;75;14;0;0;0;1030;0;0;nebbia
+Milano;22/2/2025;8;7;9;5;82;4;0;0;0;1027;0;0;pioggia
+Milano;23/2/2025;9;7;12;7;85;4;0;0;0;1029;0;0;nebbia
+Milano;24/2/2025;10;7;13;8;88;2;0;0;0;1027;0;0;nebbia
+Milano;25/2/2025;10;9;11;9;95;2;0;0;0;1019;0;0;pioggia nebbia
+Milano;26/2/2025;10;7;14;8;87;11;0;0;0;1014;0;0;pioggia
+Milano;27/2/2025;9;3;14;6;85;12;0;0;0;1016;0;0;nebbia
+Milano;28/2/2025;8;2;13;5;82;15;0;0;0;1019;0;0;nebbia
