@@ -1,74 +1,74 @@
-n,R_rating,e_communications,video_call,social,movies,e_meetings,preferred_number,transportation,highschool,year_of_birth,shoes_number,screen_time,number_of_siblings,preferred_color,pet,hM,hP,h,hair_color,eyes_color,gender,weight,month_of_birth,preferred_animal,dominant_hand
-1,Difficult,"e-mail
+"","n","R_rating","e_communications","video_call","social","movies","e_meetings","preferred_number","transportation","highschool","year_of_birth","shoes_number","screen_time","number_of_siblings","preferred_color","pet","hM","hP","h","hair_color","eyes_color","bio_sex","weight","month_of_birth","preferred_animal"
+"1",1,"Difficult","e-mail
 skype
 whatsapp
 Telegram","WhatsApp
-Skype",You Tube,NA,"Zoom
+Skype","You Tube",NA,"Zoom
 Meet
-Skype",9,Walk,Liceo Linguistico,2002,NA,NA,NA,NA,None,NA,NA,NA,NA,NA,NA,NA,NA,NA,Right
-2,Often useful,"e-mail
+Skype",9,"Walk","Liceo Linguistico",2002,NA,NA,NA,NA,"None",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2",2,"Often useful","e-mail
 whatsapp
 messaggi
-Telegram",Altro,"You Tube
-Instagram",NA,Meet,8,Car,Liceo Classico,1999,37,8,1,Pink,Other,155,165,155,Brown,Green,Female,57,11,Horse,Left
-3,Sometimes helpful,whatsapp,"WhatsApp
+Telegram","Altro","You Tube
+Instagram",NA,"Meet",8,"Car","Liceo Classico",1999,37,8,"1","Pink","Other",155,165,155,"Brown","Female","Female",57,11,"Horse"
+"3",3,"Sometimes helpful","whatsapp","WhatsApp
 Skype
 FaceTime","You Tube
 Instagram
 Altro","Netflix
 Amazon Prime video","Skype
-FaceTime",8,Train,Other,2001,42,10,0,Other,None,160,190,180,Blond,Blue,Female,70,3,Penguin,Right
-4,Difficult,e-mail,"WhatsApp
+FaceTime",8,"Train","Other",2001,42,10,"0","Other","None",160,190,180,"Blond","Female","Female",70,3,"Penguin"
+"4",4,"Difficult","e-mail","WhatsApp
 Skype","You Tube
 Instagram
 Facebook","Netflix
 Amazon Prime video","Zoom
 Meet
-Skype",6,Bicycle,Liceo Artistico,1998,37,2,1,Red,"Cat
+Skype",6,"Bicycle","Liceo Artistico",1998,37,2,"1","Red","Cat
 Dog
-Fish",150,181,170,Brown,Brown,Female,55,1,Cat,Right
-5,Sometimes helpful,whatsapp,FaceTime,Instagram,Netflix,"Meet
-FaceTime",10,Car,Liceo Linguistico,1999,41,5,1,Violet,"Cat
-Dog",165,170,175,Brown,Green,Female,63,12,Giraffe,Right
-6,Sometimes helpful,"e-mail
+Fish",150,181,170,"Brown","Female","Female",55,1,"Cat"
+"5",5,"Sometimes helpful","whatsapp","FaceTime","Instagram","Netflix","Meet
+FaceTime",10,"Car","Liceo Linguistico",1999,41,5,"1","Violet","Cat
+Dog",165,170,175,"Brown","Female","Female",63,12,"Giraffe"
+"6",6,"Sometimes helpful","e-mail
 whatsapp",NA,"You Tube
 Twitter
-Instagram",Netflix,"Zoom
-Meet",9,Car,Other,2001,38,3,2,Pink,None,159,165,153,Black,Brown,Female,50,12,Koala,Right
-7,Sometimes helpful,"e-mail
+Instagram","Netflix","Zoom
+Meet",9,"Car","Other",2001,38,3,"2","Pink","None",159,165,153,"Black","Female","Female",50,12,"Koala"
+"7",7,"Sometimes helpful","e-mail
 whatsapp
 messaggi","WhatsApp
 FaceTime","You Tube
 Instagram
 Facebook","Netflix
 Amazon Prime video","Zoom
-Meet",5,Train,Liceo Scientifico,1996,43,8,1,Black,None,165,173,184,Brown,Brown,Male,77,1,Eagle,Right
-8,Difficult,"e-mail
+Meet",5,"Train","Liceo Scientifico",1996,43,8,"1","Black","None",165,173,184,"Brown","Male","Male",77,1,"Eagle"
+"8",8,"Difficult","e-mail
 whatsapp","Skype
 FaceTime","Instagram
 Facebook","Netflix
 Amazon Prime video","Zoom
-Meet",2,Car,Liceo Scientifico,2001,38,6,0,Pink,"Cat
-Dog",164,176,175,Brown,Brown,Female,67,5,Cat,Right
-9,Often useful,e-mail,"WhatsApp
-FaceTime",Instagram,"Netflix
-Amazon Prime video",Meet,3,Car sharing,Liceo Classico,2001,37,3,2,Red,"Dog
-Reptile",160,185,162,Blond,Brown,Female,50,2,Lion,Right
-10,Often useful,"e-mail
+Meet",2,"Car","Liceo Scientifico",2001,38,6,"0","Pink","Cat
+Dog",164,176,175,"Brown","Female","Female",67,5,"Cat"
+"9",9,"Often useful","e-mail","WhatsApp
+FaceTime","Instagram","Netflix
+Amazon Prime video","Meet",3,"Car sharing","Liceo Classico",2001,37,3,"2","Red","Dog
+Reptile",160,185,162,"Blond","Female","Female",50,2,"Lion"
+"10",10,"Often useful","e-mail
 whatsapp","WhatsApp
 Skype
 FaceTime","You Tube
 Twitter
 Instagram
-Facebook",Amazon Prime video,"Meet
-FaceTime",5,Car,Other,2001,39,2,1,Orange,None,170,170,173,Black,Brown,Female,59,4,Koala,Right
-11,Sometimes helpful,"e-mail
+Facebook","Amazon Prime video","Meet
+FaceTime",5,"Car","Other",2001,39,2,"1","Orange","None",170,170,173,"Black","Female","Female",59,4,"Koala"
+"11",11,"Sometimes helpful","e-mail
 whatsapp","Skype
 Altro","You Tube
 Instagram",NA,"Zoom
 Meet
-Skype",NA,Car,Liceo Scientifico,2001,38,7,0,NA,None,NA,NA,NA,Brown,Brown,Female,NA,12,Quokka,Right
-12,Often useful,"e-mail
+Skype",NA,"Car","Liceo Scientifico",2001,38,7,"0",NA,"None",NA,NA,NA,"Brown","Female","Female",NA,12,"Quokka"
+"12",12,"Often useful","e-mail
 whatsapp
 Telegram","WhatsApp
 Skype
@@ -80,61 +80,61 @@ Amazon Prime video
 AppleTV+","Zoom
 Meet
 Skype
-Duo",3,Car,Liceo Classico,2000,40,3,1,Blue,"Cat
-Dog",168,182,173,Black,Brown,Female,53,9,Dolphin,Right
-13,Sometimes helpful,e-mail,"Skype
+Duo",3,"Car","Liceo Classico",2000,40,3,"1","Blue","Cat
+Dog",168,182,173,"Black","Female","Female",53,9,"Dolphin"
+"13",13,"Sometimes helpful","e-mail","Skype
 Messsanger","You Tube
 Instagram
 Facebook","Netflix
 Amazon Prime video
 TimVision","Zoom
 Meet
-Skype",3,Bus,Liceo Scientifico,2001,38,NA,1,Orange,"Cat
-Dog",165,170,160,Blond,Brown,Female,58,11,Dog,Right
-14,Often useful,whatsapp,WhatsApp,Instagram,NA,"Zoom
-Meet",8,Walk,Liceo Scientifico,1996,41,6,0,Green,None,155,170,174,Blond,Brown,Non-binary,68,9,Dog,Right
-15,Often useful,"whatsapp
-messaggi",FaceTime,"You Tube
+Skype",3,"Bus","Liceo Scientifico",2001,38,NA,"1","Orange","Cat
+Dog",165,170,160,"Blond","Female","Female",58,11,"Dog"
+"14",14,"Often useful","whatsapp","WhatsApp","Instagram",NA,"Zoom
+Meet",8,"Walk","Liceo Scientifico",1996,41,6,"0","Green","None",155,170,174,"Blond","Male","Male",68,9,"Dog"
+"15",15,"Often useful","whatsapp
+messaggi","FaceTime","You Tube
 Instagram","Netflix
 Amazon Prime video","Zoom
 Meet
-FaceTime",8,Car,Liceo Linguistico,1999,37,1,1,Orange,"Cat
-Dog",165,180,165,Blond,Brown,Female,48,5,Dog,Right
-16,Sometimes helpful,"e-mail
+FaceTime",8,"Car","Liceo Linguistico",1999,37,1,"1","Orange","Cat
+Dog",165,180,165,"Blond","Female","Female",48,5,"Dog"
+"16",16,"Sometimes helpful","e-mail
 whatsapp","WhatsApp
 Skype
 Altro","You Tube
-Instagram",Netflix,"Zoom
+Instagram","Netflix","Zoom
 Meet
-Skype",8,Car,Other,2001,36,10,1,Sky blue,"Cat
+Skype",8,"Car","Other",2001,36,10,"1","Sky blue","Cat
 Fish
-Reptile",155,170,160,Brown,Brown,Female,45,1,Dolphin,Right
-17,Often useful,"e-mail
+Reptile",155,170,160,"Brown","Female","Female",45,1,"Dolphin"
+"17",17,"Often useful","e-mail
 whatsapp","WhatsApp
 Altro","You Tube
-Instagram",Amazon Prime video,Meet,5,Car,Liceo Scientifico,2001,41,8,1,Yellow,None,170,180,174,Brown,Brown,Female,65,1,NA,Right
-18,Difficult,"e-mail
+Instagram","Amazon Prime video","Meet",5,"Car","Liceo Scientifico",2001,41,8,"1","Yellow","None",170,180,174,"Brown","Female","Female",65,1,NA
+"18",18,"Difficult","e-mail
 whatsapp","WhatsApp
-Altro",Instagram,Netflix,"Zoom
-Meet",8,Train,Other,2001,40,8,1,Black,None,167,190,173,Blond,Green,Female,61,3,Dolphin,Right
-19,Difficult,"e-mail
+Altro","Instagram","Netflix","Zoom
+Meet",8,"Train","Other",2001,40,8,"1","Black","None",167,190,173,"Blond","Female","Female",61,3,"Dolphin"
+"19",19,"Difficult","e-mail
 whatsapp","WhatsApp
 FaceTime","You Tube
 Instagram
 Altro","Netflix
 Amazon Prime video
 TimVision","Zoom
-Meet",3,Car sharing,Liceo Scientifico,2001,39,2,1,Pink,Dog,160,180,165,Brown,Green,Female,57,4,Cat,Right
-20,Often useful,"e-mail
-whatsapp",FaceTime,"You Tube
+Meet",3,"Car sharing","Liceo Scientifico",2001,39,2,"1","Pink","Dog",160,180,165,"Brown","Female","Female",57,4,"Cat"
+"20",20,"Often useful","e-mail
+whatsapp","FaceTime","You Tube
 Instagram
 Facebook","Netflix
 Amazon Prime video
 TimVision
 AppleTV+","Zoom
 Meet
-FaceTime",10,Car,Istituto tecnico settore economico,2001,41,3,1,Blue,Cat,153,172,172,Blond,Brown,Male,57,11,Lion,Right
-21,Often useful,"e-mail
+FaceTime",10,"Car","Istituto tecnico settore economico",2001,41,3,"1","Blue","Cat",153,172,172,"Blond","Male","Male",57,11,"Lion"
+"21",21,"Often useful","e-mail
 whatsapp","WhatsApp
 FaceTime","You Tube
 Instagram","Netflix
@@ -144,8 +144,8 @@ Infinity
 TimVision
 AppleTV+","Zoom
 Meet
-FaceTime",7,Train,Other,2001,46,3,0,Red,None,170,190,193,Brown,Brown,Non-binary,79,7,Dog,Right
-22,Difficult,"e-mail
+FaceTime",7,"Train","Other",2001,46,3,"0","Red","None",170,190,193,"Brown","Male","Male",79,7,"Dog"
+"22",22,"Difficult","e-mail
 skype
 whatsapp","WhatsApp
 Skype
@@ -154,8 +154,8 @@ Altro","You Tube
 Instagram","Netflix
 Amazon Prime video","Zoom
 Meet
-Skype",5,Car,Liceo Scientifico,2001,40,8,3,Sky blue,NA,160,165,170,Brown,Brown,Female,70,4,Tiger,Right
-23,Sometimes helpful,"e-mail
+Skype",5,"Car","Liceo Scientifico",2001,40,8,"3","Sky blue",NA,160,165,170,"Brown","Female","Female",70,4,"Tiger"
+"23",23,"Sometimes helpful","e-mail
 whatsapp","WhatsApp
 Skype
 Altro","You Tube
@@ -164,161 +164,161 @@ Instagram
 Facebook
 Altro","Netflix
 Amazon Prime video","Zoom
-Meet",5,Train,Liceo Scientifico,2001,42.5,1,1,Other,"Cat
-Dog",NA,175,180,Black,Brown,Male,80,1,Panther,Right
-24,Difficult,"e-mail
-whatsapp",Skype,"Twitter
+Meet",5,"Train","Liceo Scientifico",2001,42.5,1,"1","Other","Cat
+Dog",NA,175,180,"Black","Male","Male",80,1,"Panther"
+"24",24,"Difficult","e-mail
+whatsapp","Skype","Twitter
 Instagram
-Facebook",Netflix,"Meet
-Skype",7,Walk,Istituto tecnico settore tecnologico,2000,37.5,5,1,Green,"Cat
-Dog",160,170,168,Brown,Brown,Female,58,4,Alpaca,Right
-25,Sometimes helpful,"e-mail
+Facebook","Netflix","Meet
+Skype",7,"Walk","Istituto tecnico settore tecnologico",2000,37.5,5,"1","Green","Cat
+Dog",160,170,168,"Brown","Female","Female",58,4,"Alpaca"
+"25",25,"Sometimes helpful","e-mail
 whatsapp","FaceTime
 Altro","You Tube
-Instagram",Netflix,"Zoom
+Instagram","Netflix","Zoom
 Meet
-FaceTime",1,Train,Istituto tecnico settore economico,2002,45,5,0,Black,Dog,NA,NA,180,Brown,Green,Male,75,2,Dog,Right
-26,Sometimes helpful,"e-mail
-whatsapp",FaceTime,"You Tube
+FaceTime",1,"Train","Istituto tecnico settore economico",2002,45,5,"0","Black","Dog",NA,NA,180,"Brown","Male","Male",75,2,"Dog"
+"26",26,"Sometimes helpful","e-mail
+whatsapp","FaceTime","You Tube
 Instagram","Netflix
 Amazon Prime video","Zoom
-FaceTime",7,Car,Liceo Classico,2001,38,5,1,Green,Dog,160,180,168,Brown,Brown,Female,60,1,Alpaca,Right
-27,Difficult,e-mail,Skype,Twitter,Netflix,Skype,8,Bus,Other,2001,38,2,2,Red,Cat,167,170,165,Brown,Brown,Female,50,7,Tiger,Right
-28,Often useful,"e-mail
+FaceTime",7,"Car","Liceo Classico",2001,38,5,"1","Green","Dog",160,180,168,"Brown","Female","Female",60,1,"Alpaca"
+"27",27,"Difficult","e-mail","Skype","Twitter","Netflix","Skype",8,"Bus","Other",2001,38,2,"2","Red","Cat",167,170,165,"Brown","Female","Female",50,7,"Tiger"
+"28",28,"Often useful","e-mail
 whatsapp","WhatsApp
 Altro","You Tube
 Instagram","Netflix
 Amazon Prime video","Zoom
-Meet",8,Car,Liceo Scientifico,2001,37,6,0,Sky blue,Dog,158,165,165,Brown,Green,Female,49,8,Dog,Right
-29,Difficult,"whatsapp
+Meet",8,"Car","Liceo Scientifico",2001,37,6,"0","Sky blue","Dog",158,165,165,"Brown","Female","Female",49,8,"Dog"
+"29",29,"Difficult","whatsapp
 messaggi
 twitter","WhatsApp
 Skype","You Tube
 Twitter
-Instagram",Netflix,Meet,2,Car,Istituto tecnico settore economico,1999,38,6,1,Pink,Dog,165,170,156,Brown,Brown,Female,52,8,Dog,Right
-30,Difficult,"e-mail
+Instagram","Netflix","Meet",2,"Car","Istituto tecnico settore economico",1999,38,6,"1","Pink","Dog",165,170,156,"Brown","Female","Female",52,8,"Dog"
+"30",30,"Difficult","e-mail
 skype
 whatsapp
 Altro","WhatsApp
 Skype
 Altro","You Tube
-Instagram",Amazon Prime video,"Zoom
+Instagram","Amazon Prime video","Zoom
 Meet
-Skype",3,Car,Other,2001,43,4,1,Red,None,155,167,175,Brown,Brown,Male,62,9,Wolf,Right
-31,Difficult,"e-mail
+Skype",3,"Car","Other",2001,43,4,"1","Red","None",155,167,175,"Brown","Male","Male",62,9,"Wolf"
+"31",31,"Difficult","e-mail
 whatsapp","WhatsApp
 Altro","You Tube
 Instagram
-Facebook",Amazon Prime video,"Zoom
-Meet",7,Car,Other,1999,43,2,1,Sky blue,"Cat
-Dog",165,180,185,Brown,Brown,Male,73,9,Lion,Right
-32,Often useful,"e-mail
-whatsapp",WhatsApp,"You Tube
-Instagram",Amazon Prime video,"Zoom
-Meet",0,Car,Liceo Scientifico,2001,46,4,1,White,Cat,175,190,193,Brown,Brown,Male,82,2,Fox,Right
-33,Sometimes helpful,whatsapp,Skype,"You Tube
+Facebook","Amazon Prime video","Zoom
+Meet",7,"Car","Other",1999,43,2,"1","Sky blue","Cat
+Dog",165,180,185,"Brown","Male","Male",73,9,"Lion"
+"32",32,"Often useful","e-mail
+whatsapp","WhatsApp","You Tube
+Instagram","Amazon Prime video","Zoom
+Meet",0,"Car","Liceo Scientifico",2001,46,4,"1","White","Cat",175,190,193,"Brown","Male","Male",82,2,"Fox"
+"33",33,"Sometimes helpful","whatsapp","Skype","You Tube
 Instagram
-Facebook",Netflix,Meet,9,Car,NA,2001,40.5,4,0,Red,Dog,155,170,170,Brown,Brown,Male,56,7,Puma,Right
-34,Difficult,e-mail,WhatsApp,Instagram,Netflix,Skype,8,Car,Istituto tecnico settore tecnologico,1998,38,1,0,Black,Dog,153,170,165,Black,Brown,Female,52,7,Tiger,Right
-35,Sometimes helpful,"e-mail
+Facebook","Netflix","Meet",9,"Car",NA,2001,40.5,4,"0","Red","Dog",155,170,170,"Brown","Male","Male",56,7,"Puma"
+"34",34,"Difficult","e-mail","WhatsApp","Instagram","Netflix","Skype",8,"Car","Istituto tecnico settore tecnologico",1998,38,1,"0","Black","Dog",153,170,165,"Black","Female","Female",52,7,"Tiger"
+"35",35,"Sometimes helpful","e-mail
 whatsapp
 messaggi","WhatsApp
 Messsanger","Instagram
 Facebook","Netflix
 Amazon Prime video","Zoom
-Meet",NA,Walk,Liceo Classico,2001,36,NA,1,Green,Cat,170,175,165,Brown,Green,Female,52,2,Koala,Right
-36,Useless,whatsapp,WhatsApp,"You Tube
+Meet",NA,"Walk","Liceo Classico",2001,36,NA,"1","Green","Cat",170,175,165,"Brown","Female","Female",52,2,"Koala"
+"36",36,"Useless","whatsapp","WhatsApp","You Tube
 Instagram","Netflix
 Amazon Prime video","Zoom
-Meet",2,Train,Liceo Scientifico,2002,38.5,2,2,Other,"Fish
-Birds",NA,NA,160,Brown,Brown,Female,NA,2,Dog,Right
-37,Often useful,e-mail,FaceTime,Instagram,"Netflix
+Meet",2,"Train","Liceo Scientifico",2002,38.5,2,"2","Other","Fish
+Birds",NA,NA,160,"Brown","Female","Female",NA,2,"Dog"
+"37",37,"Often useful","e-mail","FaceTime","Instagram","Netflix
 Amazon Prime video","Zoom
-Meet",2,Car,Liceo Scientifico,2000,38,4,1,Pink,"Cat
+Meet",2,"Car","Liceo Scientifico",2000,38,4,"1","Pink","Cat
 Dog
 Fish
-Reptile",164,178,165,Blond,Green,Female,54,7,Cat,Right
-38,Rarely useful,"e-mail
+Reptile",164,178,165,"Blond","Female","Female",54,7,"Cat"
+"38",38,"Rarely useful","e-mail
 Altro","WhatsApp
 FaceTime
 Altro","You Tube
-Instagram",Netflix,Meet,3,Car,Istituto tecnico settore tecnologico,1998,47,2,1,Black,"Cat
+Instagram","Netflix","Meet",3,"Car","Istituto tecnico settore tecnologico",1998,47,2,"1","Black","Cat
 Dog
 Fish
-Other",164,178,181,Red,Brown,Male,97,5,Wolf,Right
-39,Often useful,whatsapp,Altro,Instagram,Netflix,Meet,5,Train,Istituto tecnico settore tecnologico,2001,44,5,1,Yellow,None,170,177,180,Blond,Brown,Male,78,11,Rabbit,Right
-40,Sometimes helpful,"e-mail
-whatsapp",Altro,Instagram,Netflix,Meet,8,Car,Liceo Linguistico,2001,38,7,0,Red,"Dog
-Fish",170,175,170,Brown,Brown,Female,50,4,Horse,Right
-41,Sometimes helpful,e-mail,"WhatsApp
-FaceTime",Instagram,Netflix,"Zoom
-Meet",8,Train,Liceo Linguistico,2001,38,2,1,Pink,None,165,175,165,Brown,Green,Female,59,1,Dolphin,Right
-42,Sometimes helpful,"e-mail
+Other",164,178,181,"Red","Male","Male",97,5,"Wolf"
+"39",39,"Often useful","whatsapp","Altro","Instagram","Netflix","Meet",5,"Train","Istituto tecnico settore tecnologico",2001,44,5,"1","Yellow","None",170,177,180,"Blond","Male","Male",78,11,"Rabbit"
+"40",40,"Sometimes helpful","e-mail
+whatsapp","Altro","Instagram","Netflix","Meet",8,"Car","Liceo Linguistico",2001,38,7,"0","Red","Dog
+Fish",170,175,170,"Brown","Female","Female",50,4,"Horse"
+"41",41,"Sometimes helpful","e-mail","WhatsApp
+FaceTime","Instagram","Netflix","Zoom
+Meet",8,"Train","Liceo Linguistico",2001,38,2,"1","Pink","None",165,175,165,"Brown","Female","Female",59,1,"Dolphin"
+"42",42,"Sometimes helpful","e-mail
 whatsapp","FaceTime
 Altro","You Tube
-Instagram",Netflix,"Zoom
-Meet",7,Walk,Liceo Classico,2001,36,5,3,Green,Cat,158,175,160,Blond,Blue,Female,42,9,NA,Left
-43,Rarely useful,whatsapp,FaceTime,Instagram,"Netflix
+Instagram","Netflix","Zoom
+Meet",7,"Walk","Liceo Classico",2001,36,5,"3","Green","Cat",158,175,160,"Blond","Female","Female",42,9,NA
+"43",43,"Rarely useful","whatsapp","FaceTime","Instagram","Netflix
 Amazon Prime video
 AppleTV+","Zoom
 Meet
-FaceTime",3,Car sharing,Liceo Scientifico,2000,42,3,3,Green,Dog,178,186,186,Blond,Blue,Non-binary,69,8,Penguin,Right
-44,Often useful,e-mail,"WhatsApp
+FaceTime",3,"Car sharing","Liceo Scientifico",2000,42,3,"3","Green","Dog",178,186,186,"Blond","Male","Male",69,8,"Penguin"
+"44",44,"Often useful","e-mail","WhatsApp
 Altro","You Tube
 Twitter
 Instagram
-Linkedin",Netflix,"Zoom
-Meet",7,Car,Other,2000,39,4,1,Green,Cat,174,183,169,Brown,Brown,Female,58,3,Cat,Right
-45,Sometimes helpful,"e-mail
+Linkedin","Netflix","Zoom
+Meet",7,"Car","Other",2000,39,4,"1","Green","Cat",174,183,169,"Brown","Female","Female",58,3,"Cat"
+"45",45,"Sometimes helpful","e-mail
 whatsapp","Skype
 Google Duo","Twitter
-Instagram",Netflix,"Zoom
-Meet",9,Other,Liceo Classico,2000,39,1,0,Red,Cat,175,169,172,Red,Green,Female,55,6,Tiger,Right
-46,Often useful,"e-mail
-whatsapp",WhatsApp,"You Tube
+Instagram","Netflix","Zoom
+Meet",9,"Other","Liceo Classico",2000,39,1,"0","Red","Cat",175,169,172,"Red","Female","Female",55,6,"Tiger"
+"46",46,"Often useful","e-mail
+whatsapp","WhatsApp","You Tube
 Instagram","Netflix
 Amazon Prime video","Zoom
-Meet",6,Car,Istituto tecnico settore tecnologico,2001,40,10,1,Red,Cat,170,180,168,Black,Brown,Female,57,4,Panther,Right
-47,Sometimes helpful,e-mail,FaceTime,Instagram,Netflix,FaceTime,3,Car sharing,Liceo Scientifico,2001,38,1,1,Blue,None,159,178,163,Brown,Green,Female,50,3,Dolphin,Right
-48,Difficult,"e-mail
+Meet",6,"Car","Istituto tecnico settore tecnologico",2001,40,10,"1","Red","Cat",170,180,168,"Black","Female","Female",57,4,"Panther"
+"47",47,"Sometimes helpful","e-mail","FaceTime","Instagram","Netflix","FaceTime",3,"Car sharing","Liceo Scientifico",2001,38,1,"1","Blue","None",159,178,163,"Brown","Female","Female",50,3,"Dolphin"
+"48",48,"Difficult","e-mail
 whatsapp","WhatsApp
 FaceTime","You Tube
 Instagram
-Facebook",Netflix,"Meet
-FaceTime",10,Train,Istituto Professionale,1997,39,5,2,Black,None,165,175,169,Brown,Brown,Female,55,8,Horse,Right
-49,Often useful,"e-mail
+Facebook","Netflix","Meet
+FaceTime",10,"Train","Istituto Professionale",1997,39,5,"2","Black","None",165,175,169,"Brown","Female","Female",55,8,"Horse"
+"49",49,"Often useful","e-mail
 whatsapp
 messaggi","WhatsApp
 FaceTime","You Tube
 Instagram","Netflix
 Amazon Prime video","Zoom
-FaceTime",3,Car,Istituto tecnico settore tecnologico,1999,40,3,1,Yellow,Cat,170,180,165,Blond,Green,Female,57,3,Koala,Right
-50,Often useful,"e-mail
+FaceTime",3,"Car","Istituto tecnico settore tecnologico",1999,40,3,"1","Yellow","Cat",170,180,165,"Blond","Female","Female",57,3,"Koala"
+"50",50,"Often useful","e-mail
 whatsapp
 messaggi","WhatsApp
-FaceTime",You Tube,"Netflix
-Amazon Prime video",Meet,5,Car,Istituto Professionale,2000,41,1,2,Other,"Cat
+FaceTime","You Tube","Netflix
+Amazon Prime video","Meet",5,"Car","Istituto Professionale",2000,41,1,"2","Other","Cat
 Dog
 Fish
 Rodents
-Other",165,192,175,Brown,Brown,Female,54,NA,Dog,Right
-51,Difficult,whatsapp,WhatsApp,Instagram,Netflix,Meet,2,Walk,Other,1999,38,3,1,Blue,None,158,160,156,Brown,Brown,Non-binary,58,5,Cat,Right
-52,Sometimes helpful,"e-mail
+Other",165,192,175,"Brown","Female","Female",54,NA,"Dog"
+"51",51,"Difficult","whatsapp","WhatsApp","Instagram","Netflix","Meet",2,"Walk","Other",1999,38,3,"1","Blue","None",158,160,156,"Brown","Female","Female",58,5,"Cat"
+"52",52,"Sometimes helpful","e-mail
 whatsapp
-Telegram",FaceTime,"You Tube
+Telegram","FaceTime","You Tube
 Instagram
 Facebook","Netflix
 Amazon Prime video
 TimVision","Meet
-FaceTime",2,Walk,Liceo Scientifico,2001,39,3,1,Red,"Cat
-Dog",170,180,167,Brown,Brown,Female,57,10,Koala,Right
-53,Difficult,"e-mail
+FaceTime",2,"Walk","Liceo Scientifico",2001,39,3,"1","Red","Cat
+Dog",170,180,167,"Brown","Female","Female",57,10,"Koala"
+"53",53,"Difficult","e-mail
 whatsapp
 messaggi
-Telegram",WhatsApp,"You Tube
-Twitter",Netflix,"Zoom
-Meet",7,Walk,Liceo Classico,2000,38,15,0,Orange,Rabbit,160,185,175,Other,Green,Female,58,12,Owl,Right
-54,Often useful,"e-mail
+Telegram","WhatsApp","You Tube
+Twitter","Netflix","Zoom
+Meet",7,"Walk","Liceo Classico",2000,38,15,"0","Orange","Rabbit",160,185,175,"Other","Female","Female",58,12,"Owl"
+"54",54,"Often useful","e-mail
 whatsapp
 messaggi","WhatsApp
 FaceTime","You Tube
@@ -327,8 +327,8 @@ Instagram
 Facebook","Netflix
 Amazon Prime video","Zoom
 Meet
-Skype",2,Car,Liceo Linguistico,2002,38,6,2,Pink,None,170,180,165,Brown,Brown,Female,58,2,Dog,Right
-55,Sometimes helpful,"e-mail
+Skype",2,"Car","Liceo Linguistico",2002,38,6,"2","Pink","None",170,180,165,"Brown","Female","Female",58,2,"Dog"
+"55",55,"Sometimes helpful","e-mail
 whatsapp
 messaggi
 twitter
@@ -339,23 +339,23 @@ Instagram
 Facebook
 Altro","Netflix
 Amazon Prime video","Zoom
-Meet",7,Bicycle,Liceo Scientifico,2001,37,6,2,Sky blue,"Cat
+Meet",7,"Bicycle","Liceo Scientifico",2001,37,6,"2","Sky blue","Cat
 Dog
-Fish",160,168,162,Brown,Blue,Female,58,12,Horse,Right
-56,Rarely useful,"e-mail
+Fish",160,168,162,"Brown","Female","Female",58,12,"Horse"
+"56",56,"Rarely useful","e-mail
 whatsapp","WhatsApp
-Skype",Instagram,Amazon Prime video,Meet,4,Walk,Liceo Scientifico,2002,44,2,1,Other,"Cat
+Skype","Instagram","Amazon Prime video","Meet",4,"Walk","Liceo Scientifico",2002,44,2,"1","Other","Cat
 Dog
-Reptile",175,190,180,Brown,Brown,Male,69,1,Jaguar,Right
-57,Difficult,whatsapp,"Skype
+Reptile",175,190,180,"Brown","Male","Male",69,1,"Jaguar"
+"57",57,"Difficult","whatsapp","Skype
 FaceTime","You Tube
 Instagram","Netflix
 Amazon Prime video
 TimVision","Meet
 Skype
-FaceTime",8,Car,Liceo Scientifico,1999,40,4,1,Red,None,164,180,173,Brown,Brown,Female,60,3,Wolf,Right
-58,Difficult,twitter,Messsanger,Instagram,Netflix,Meet,3,Bus,Liceo Scientifico,2001,32,5,4,Sky blue,Other,168,173,161,Brown,Green,Female,61,8,Cat,Right
-59,Often useful,"e-mail
+FaceTime",8,"Car","Liceo Scientifico",1999,40,4,"1","Red","None",164,180,173,"Brown","Female","Female",60,3,"Wolf"
+"58",58,"Difficult","twitter","Messsanger","Instagram","Netflix","Meet",3,"Bus","Liceo Scientifico",2001,32,5,"4","Sky blue","Other",168,173,161,"Brown","Female","Female",61,8,"Cat"
+"59",59,"Often useful","e-mail
 whatsapp
 Altro","WhatsApp
 Altro","You Tube
@@ -364,47 +364,47 @@ Instagram
 Facebook
 Altro","Netflix
 Amazon Prime video","Zoom
-Meet",7,Walk,Other,2000,43,6,2,Green,None,176,172,185,Brown,Green,Male,92,5,Whale,Right
-60,Rarely useful,"e-mail
+Meet",7,"Walk","Other",2000,43,6,"2","Green","None",176,172,185,"Brown","Male","Male",92,5,"Whale"
+"60",60,"Rarely useful","e-mail
 whatsapp","WhatsApp
-FaceTime",Instagram,"Netflix
+FaceTime","Instagram","Netflix
 Amazon Prime video
 TimVision","Zoom
-Meet",5,Train,Liceo Scientifico,2001,38,1,0,NA,"Cat
-Dog",173,180,176,Blond,Brown,Female,65,11,Cat,Right
-61,Sometimes helpful,"e-mail
+Meet",5,"Train","Liceo Scientifico",2001,38,1,"0",NA,"Cat
+Dog",173,180,176,"Blond","Female","Female",65,11,"Cat"
+"61",61,"Sometimes helpful","e-mail
 whatsapp","WhatsApp
 Messsanger","You Tube
 Instagram
-Facebook",Netflix,"Zoom
-Meet",4,Train,Liceo Linguistico,2001,37,4,1,NA,Birds,157,172,157,Brown,Brown,Female,43,8,Penguin,Left
-62,Rarely useful,"e-mail
+Facebook","Netflix","Zoom
+Meet",4,"Train","Liceo Linguistico",2001,37,4,"1",NA,"Birds",157,172,157,"Brown","Female","Female",43,8,"Penguin"
+"62",62,"Rarely useful","e-mail
 whatsapp
 Telegram","WhatsApp
 FaceTime","You Tube
 Instagram","Netflix
-Amazon Prime video",Meet,8,Car,Liceo Scientifico,2001,41,4,0,Black,None,169,163,170,Brown,Other,Male,63,5,Monkey,Right
-63,Often useful,"e-mail
-whatsapp",WhatsApp,"You Tube
+Amazon Prime video","Meet",8,"Car","Liceo Scientifico",2001,41,4,"0","Black","None",169,163,170,"Brown","Male","Male",63,5,"Monkey"
+"63",63,"Often useful","e-mail
+whatsapp","WhatsApp","You Tube
 Instagram
 Facebook","Netflix
 TimVision","Zoom
-Meet",7,Other,Liceo Scientifico,1999,43,2,1,Orange,"Cat
+Meet",7,"Other","Liceo Scientifico",1999,43,2,"1","Orange","Cat
 Dog
-Fish",163,175,180,Brown,Blue,Male,80,2,Fox,Right
-64,Sometimes helpful,"e-mail
+Fish",163,175,180,"Brown","Male","Male",80,2,"Fox"
+"64",64,"Sometimes helpful","e-mail
 whatsapp
 Telegram","WhatsApp
 Skype
 Google Duo","You Tube
 Instagram
-Altro",Netflix,"Zoom
-Meet",7,Train,Other,2000,36,3,0,Violet,Cat,162,170,154,Other,Green,Female,50,12,Elephans,Right
-65,Often useful,"e-mail
+Altro","Netflix","Zoom
+Meet",7,"Train","Other",2000,36,3,"0","Violet","Cat",162,170,154,"Other","Female","Female",50,12,"Elephans"
+"65",65,"Often useful","e-mail
 whatsapp","WhatsApp
 FaceTime","Instagram
-Altro",Netflix,Meet,7,Walk,Liceo Scientifico,2000,38,3,2,Black,None,168,173,170,Red,Blue,Female,62,6,Dog,Right
-66,Sometimes helpful,"e-mail
+Altro","Netflix","Meet",7,"Walk","Liceo Scientifico",2000,38,3,"2","Black","None",168,173,170,"Red","Female","Female",62,6,"Dog"
+"66",66,"Sometimes helpful","e-mail
 whatsapp","WhatsApp
 Skype
 FaceTime","Twitter
@@ -412,29 +412,29 @@ Instagram
 Facebook","Netflix
 Amazon Prime video
 TimVision","Zoom
-Meet",7,Car,Liceo Scientifico,2000,41,9,0,Pink,Cat,163,180,184,Brown,Green,Female,72,4,Kangaroo,Right
-67,Often useful,"e-mail
+Meet",7,"Car","Liceo Scientifico",2000,41,9,"0","Pink","Cat",163,180,184,"Brown","Female","Female",72,4,"Kangaroo"
+"67",67,"Often useful","e-mail
 whatsapp","WhatsApp
 Skype
 Google Duo","You Tube
 Instagram","Netflix
-Amazon Prime video",Meet,4,Train,Liceo Scientifico,2001,36,7,1,Green,"Cat
-Dog",157,180,158,Brown,Green,Female,54,9,Dog,Right
-68,Often useful,e-mail,Altro,Instagram,Netflix,Meet,9,Car,Liceo Classico,2001,42,4,1,Blue,NA,162,175,173,Brown,Green,Non-binary,70,1,Cat,Right
-69,Rarely useful,e-mail,FaceTime,"You Tube
-Instagram",Netflix,Meet,NA,NA,NA,NA,NA,4,1,Black,"Cat
+Amazon Prime video","Meet",4,"Train","Liceo Scientifico",2001,36,7,"1","Green","Cat
+Dog",157,180,158,"Brown","Female","Female",54,9,"Dog"
+"68",68,"Often useful","e-mail","Altro","Instagram","Netflix","Meet",9,"Car","Liceo Classico",2001,42,4,"1","Blue",NA,162,175,173,"Brown","Male","Male",70,1,"Cat"
+"69",69,"Rarely useful","e-mail","FaceTime","You Tube
+Instagram","Netflix","Meet",NA,NA,NA,NA,NA,4,"1","Black","Cat
 Dog
-Birds",165,165,165,Brown,Brown,Female,53,12,Horse,Right
-70,Sometimes helpful,whatsapp,"WhatsApp
+Birds",165,165,165,"Brown","Female","Female",53,12,"Horse"
+"70",70,"Sometimes helpful","whatsapp","WhatsApp
 Skype
 FaceTime","You Tube
-Instagram",Amazon Prime video,Meet,8,Train,Liceo Scientifico,2001,46,3,1,Black,None,165,175,182,Brown,Brown,Male,76,2,Penguin,Right
-71,Useless,"whatsapp
+Instagram","Amazon Prime video","Meet",8,"Train","Liceo Scientifico",2001,46,3,"1","Black","None",165,175,182,"Brown","Male","Male",76,2,"Penguin"
+"71",71,"Useless","whatsapp
 Telegram","WhatsApp
 FaceTime","You Tube
 Instagram","Netflix
-Amazon Prime video",Meet,5,Train,Istituto tecnico settore economico,2001,38.5,11,1,Pink,None,158,180,162,Brown,Brown,Female,57,12,Dog,Right
-72,Difficult,"e-mail
+Amazon Prime video","Meet",5,"Train","Istituto tecnico settore economico",2001,38.5,11,"1","Pink","None",158,180,162,"Brown","Female","Female",57,12,"Dog"
+"72",72,"Difficult","e-mail
 whatsapp
 messaggi","WhatsApp
 FaceTime
@@ -442,8 +442,8 @@ Google Duo
 Altro","You Tube
 Instagram","Netflix
 Amazon Prime video","Zoom
-Meet",7,Car,Liceo Scientifico,1999,36,6,0,Blue,Cat,170,180,163,Blond,Brown,Female,55,5,Cat,Right
-73,Sometimes helpful,"e-mail
+Meet",7,"Car","Liceo Scientifico",1999,36,6,"0","Blue","Cat",170,180,163,"Blond","Female","Female",55,5,"Cat"
+"73",73,"Sometimes helpful","e-mail
 whatsapp
 messaggi","WhatsApp
 Skype
@@ -453,41 +453,41 @@ Instagram
 Facebook","Netflix
 Amazon Prime video","Zoom
 Meet
-Skype",8,Car,Liceo Scientifico,2001,40,10,1,Blue,Dog,155,180,167,Brown,Brown,Female,74,6,Horse,Right
-74,Useless,whatsapp,"WhatsApp
+Skype",8,"Car","Liceo Scientifico",2001,40,10,"1","Blue","Dog",155,180,167,"Brown","Female","Female",74,6,"Horse"
+"74",74,"Useless","whatsapp","WhatsApp
 FaceTime","You Tube
 Instagram
-Facebook",Netflix,Meet,2,Train,Liceo Classico,2001,38,3,2,Violet,None,172,170,172,Brown,Green,Non-binary,55,5,Dolphin,Right
-75,Sometimes helpful,"e-mail
+Facebook","Netflix","Meet",2,"Train","Liceo Classico",2001,38,3,"2","Violet","None",172,170,172,"Brown","Female","Female",55,5,"Dolphin"
+"75",75,"Sometimes helpful","e-mail
 whatsapp
 Altro","WhatsApp
-Google Duo",You Tube,Netflix,"Zoom
-Meet",5,Train,Other,2000,36,13,2,Red,None,160,170,156,Black,Brown,Female,46,5,Wolf,Right
-76,Often useful,"e-mail
+Google Duo","You Tube","Netflix","Zoom
+Meet",5,"Train","Other",2000,36,13,"2","Red","None",160,170,156,"Black","Female","Female",46,5,"Wolf"
+"76",76,"Often useful","e-mail
 whatsapp","WhatsApp
 Skype
 FaceTime","You Tube
 Instagram
 Facebook
-Altro",Netflix,"Zoom
+Altro","Netflix","Zoom
 Meet
-Skype",9,Walk,Istituto tecnico settore tecnologico,2001,39,5,1,Black,Dog,160,180,163,Brown,Brown,Female,63,9,Penguin,Right
-77,Sometimes helpful,"e-mail
+Skype",9,"Walk","Istituto tecnico settore tecnologico",2001,39,5,"1","Black","Dog",160,180,163,"Brown","Female","Female",63,9,"Penguin"
+"77",77,"Sometimes helpful","e-mail
 messaggi","WhatsApp
 FaceTime","You Tube
 Twitter
 Instagram","Netflix
 AppleTV+","Zoom
-Meet",8,Car,Liceo Linguistico,2002,38,5,1,Blue,"Cat
+Meet",8,"Car","Liceo Linguistico",2002,38,5,"1","Blue","Cat
 Dog
-Fish",167,178,162,Blond,Blue,Female,56,8,lince,Right
-78,Sometimes helpful,"e-mail
-whatsapp",WhatsApp,"You Tube
+Fish",167,178,162,"Blond","Female","Female",56,8,"lince"
+"78",78,"Sometimes helpful","e-mail
+whatsapp","WhatsApp","You Tube
 Instagram
 Facebook","Netflix
 Amazon Prime video","Zoom
-Meet",10,Car,Istituto tecnico settore tecnologico,2001,47,2,1,Other,Fish,170,189,187,Brown,Brown,Male,77,12,Koala,Right
-79,Often useful,"e-mail
+Meet",10,"Car","Istituto tecnico settore tecnologico",2001,47,2,"1","Other","Fish",170,189,187,"Brown","Male","Male",77,12,"Koala"
+"79",79,"Often useful","e-mail
 whatsapp
 messaggi","WhatsApp
 Altro","You Tube
@@ -495,40 +495,40 @@ Instagram
 Facebook","Netflix
 Amazon Prime video
 TimVision","Zoom
-Meet",8,Train,Liceo Linguistico,2001,45,4,0,Red,Dog,165,194,184,Black,Green,Male,75,1,Wolf,Right
-80,Rarely useful,whatsapp,"WhatsApp
+Meet",8,"Train","Liceo Linguistico",2001,45,4,"0","Red","Dog",165,194,184,"Black","Male","Male",75,1,"Wolf"
+"80",80,"Rarely useful","whatsapp","WhatsApp
 Skype
 Altro","You Tube
 Instagram
-Altro",Amazon Prime video,"Zoom
-Meet",9,Car,Liceo Scientifico,2001,43,4,1,Black,None,160,170,170,Brown,Brown,Male,56,4,Tiger,Right
-81,Often useful,"e-mail
-whatsapp",WhatsApp,"You Tube
+Altro","Amazon Prime video","Zoom
+Meet",9,"Car","Liceo Scientifico",2001,43,4,"1","Black","None",160,170,170,"Brown","Male","Male",56,4,"Tiger"
+"81",81,"Often useful","e-mail
+whatsapp","WhatsApp","You Tube
 Instagram","Netflix
-Amazon Prime video",Meet,5,Car,Liceo Linguistico,2000,44,1,1,Blue,Dog,156,177,174,Brown,Brown,Male,82,5,Dog,Right
-82,Sometimes helpful,"e-mail
+Amazon Prime video","Meet",5,"Car","Liceo Linguistico",2000,44,1,"1","Blue","Dog",156,177,174,"Brown","Male","Male",82,5,"Dog"
+"82",82,"Sometimes helpful","e-mail
 whatsapp","WhatsApp
 Altro","You Tube
 Instagram
 Facebook","Netflix
 Amazon Prime video","Zoom
-Meet",6,Car,Istituto Professionale,2000,46,4,1,Blue,"Dog
+Meet",6,"Car","Istituto Professionale",2000,46,4,"1","Blue","Dog
 Fish
-Reptile",167,173,183,Brown,Green,Male,100,4,Dog,Right
-83,Often useful,"e-mail
+Reptile",167,173,183,"Brown","Male","Male",100,4,"Dog"
+"83",83,"Often useful","e-mail
 whatsapp","WhatsApp
 Messsanger","You Tube
 Instagram
-Facebook",Netflix,Meet,10,Car sharing,Istituto Professionale,2001,38,5,1,Sky blue,None,NA,NA,160,Brown,Brown,Female,47,7,Dog,Right
-84,Useless,skype,"WhatsApp
+Facebook","Netflix","Meet",10,"Car sharing","Istituto Professionale",2001,38,5,"1","Sky blue","None",NA,NA,160,"Brown","Female","Female",47,7,"Dog"
+"84",84,"Useless","skype","WhatsApp
 Skype","You Tube
-Instagram",Netflix,"Zoom
+Instagram","Netflix","Zoom
 Meet
 Skype
-FaceTime",10,Car sharing,Liceo Scientifico,2001,39,3,3,Black,"Dog
+FaceTime",10,"Car sharing","Liceo Scientifico",2001,39,3,"3","Black","Dog
 Fish
-Reptile",165,182,168,Brown,Green,Female,67,10,Wolf,Right
-85,Difficult,"e-mail
+Reptile",165,182,168,"Brown","Female","Female",67,10,"Wolf"
+"85",85,"Difficult","e-mail
 whatsapp
 hangouts","WhatsApp
 Altro","You Tube
@@ -536,11 +536,11 @@ Instagram
 Facebook","Netflix
 Amazon Prime video","Zoom
 Meet
-Skype",8,Car,Istituto Professionale,2001,43,2,2,Red,"Dog
+Skype",8,"Car","Istituto Professionale",2001,43,2,"2","Red","Dog
 Fish
 Reptile
-Birds",165,185,190,Brown,Green,Non-binary,70,5,Hippopotamus,Ambidextrous
-86,Difficult,"e-mail
+Birds",165,185,190,"Brown","Male","Male",70,5,"Hippopotamus"
+"86",86,"Difficult","e-mail
 whatsapp
 messaggi
 Telegram","WhatsApp
@@ -551,24 +551,24 @@ Facebook","Netflix
 Amazon Prime video
 Infinity","Meet
 Skype
-FaceTime",6,Car,Istituto tecnico settore tecnologico,1999,40,1,0,Black,Reptile,168,180,168,Black,Brown,Female,80,4,Lion,Right
-87,Often useful,"e-mail
+FaceTime",6,"Car","Istituto tecnico settore tecnologico",1999,40,1,"0","Black","Reptile",168,180,168,"Black","Female","Female",80,4,"Lion"
+"87",87,"Often useful","e-mail
 whatsapp
 Telegram","WhatsApp
-FaceTime",Instagram,"Netflix
+FaceTime","Instagram","Netflix
 Amazon Prime video
-Infinity",Meet,9,Walk,Istituto tecnico settore economico,2001,38,3,0,Blue,Dog,160,180,163,Brown,Other,Female,50,2,Horse,Right
-88,Often useful,e-mail,"Skype
-FaceTime",Instagram,Netflix,"Zoom
+Infinity","Meet",9,"Walk","Istituto tecnico settore economico",2001,38,3,"0","Blue","Dog",160,180,163,"Brown","Female","Female",50,2,"Horse"
+"88",88,"Often useful","e-mail","Skype
+FaceTime","Instagram","Netflix","Zoom
 Meet
 Skype
-FaceTime",7,Car,Liceo Scientifico,2001,40,1,2,Green,"Cat
-Dog",176,187,175,Brown,Brown,Female,65,9,Koala,Right
-89,Sometimes helpful,e-mail,"WhatsApp
+FaceTime",7,"Car","Liceo Scientifico",2001,40,1,"2","Green","Cat
+Dog",176,187,175,"Brown","Female","Female",65,9,"Koala"
+"89",89,"Sometimes helpful","e-mail","WhatsApp
 FaceTime","You Tube
 Instagram","Netflix
-Amazon Prime video",Meet,6,Car,Liceo Linguistico,2001,40,6,0,Violet,Dog,165,170,170,Blond,Green,Female,70,9,Wolf,Right
-90,Often useful,"e-mail
+Amazon Prime video","Meet",6,"Car","Liceo Linguistico",2001,40,6,"0","Violet","Dog",165,170,170,"Blond","Female","Female",70,9,"Wolf"
+"90",90,"Often useful","e-mail
 whatsapp","WhatsApp
 FaceTime
 Altro","You Tube
@@ -577,33 +577,33 @@ Facebook
 Altro","Netflix
 Amazon Prime video","Zoom
 Meet
-Skype",2,Walk,Liceo Scientifico,2000,41,1,3,Yellow,None,160,180,171,Black,Brown,Female,68,10,Panther,Left
-91,Difficult,"e-mail
+Skype",2,"Walk","Liceo Scientifico",2000,41,1,"3","Yellow","None",160,180,171,"Black","Female","Female",68,10,"Panther"
+"91",91,"Difficult","e-mail
 whatsapp
 messaggi
-messanger",WhatsApp,"You Tube
+messanger","WhatsApp","You Tube
 Instagram
 Facebook","Netflix
 Amazon Prime video","Zoom
-Meet",5,Car,Liceo Scientifico,2001,40,NA,2,Blue,"Cat
-Dog",155,188,167,Brown,Brown,Female,60,9,Dog,Right
-92,Rarely useful,"e-mail
+Meet",5,"Car","Liceo Scientifico",2001,40,NA,"2","Blue","Cat
+Dog",155,188,167,"Brown","Female","Female",60,9,"Dog"
+"92",92,"Rarely useful","e-mail
 whatsapp","WhatsApp
 FaceTime","You Tube
-Instagram",Netflix,"Zoom
-Meet",1,Train,Liceo Scientifico,2001,43,8,2,Black,"Cat
-Dog",170,180,185,Black,Brown,Male,71,7,NA,Left
-93,Difficult,"e-mail
-whatsapp",FaceTime,"Instagram
+Instagram","Netflix","Zoom
+Meet",1,"Train","Liceo Scientifico",2001,43,8,"2","Black","Cat
+Dog",170,180,185,"Black","Male","Male",71,7,NA
+"93",93,"Difficult","e-mail
+whatsapp","FaceTime","Instagram
 Facebook","Netflix
 Amazon Prime video","Zoom
-Meet",5,Train,Istituto tecnico settore economico,1998,38,14,1,Green,None,163,183,174,Red,Green,Female,54,7,Dog,Right
-94,Sometimes helpful,"e-mail
+Meet",5,"Train","Istituto tecnico settore economico",1998,38,14,"1","Green","None",163,183,174,"Red","Female","Female",54,7,"Dog"
+"94",94,"Sometimes helpful","e-mail
 whatsapp","WhatsApp
-FaceTime",Instagram,Netflix,"Zoom
+FaceTime","Instagram","Netflix","Zoom
 Meet
-FaceTime",7,Other,Liceo Classico,2001,44,2,0,Green,None,160,174,182,Brown,Brown,Male,72,9,Tiger,Right
-95,Often useful,"e-mail
+FaceTime",7,"Other","Liceo Classico",2001,44,2,"0","Green","None",160,174,182,"Brown","Male","Male",72,9,"Tiger"
+"95",95,"Often useful","e-mail
 whatsapp
 messaggi","WhatsApp
 Skype
@@ -611,8 +611,8 @@ FaceTime","You Tube
 Instagram
 Facebook","Netflix
 Amazon Prime video","Zoom
-Meet",7,Walk,Liceo Classico,2001,36,2,2,Pink,Dog,158,175,158,Brown,Blue,Female,52,12,Lion,Right
-96,Sometimes helpful,"e-mail
+Meet",7,"Walk","Liceo Classico",2001,36,2,"2","Pink","Dog",158,175,158,"Brown","Female","Female",52,12,"Lion"
+"96",96,"Sometimes helpful","e-mail
 whatsapp
 Telegram","Skype
 Altro","You Tube
@@ -621,55 +621,55 @@ Amazon Prime video
 Infinity","Zoom
 Meet
 Skype
-Duo",8,Bicycle,Liceo Scientifico,2001,41,3,1,Orange,None,NA,180,175,Brown,Brown,Male,75,11,Koala,Right
-97,Difficult,e-mail,"WhatsApp
+Duo",8,"Bicycle","Liceo Scientifico",2001,41,3,"1","Orange","None",NA,180,175,"Brown","Male","Male",75,11,"Koala"
+"97",97,"Difficult","e-mail","WhatsApp
 Skype
 FaceTime
 Altro","You Tube
 Instagram","Netflix
 Amazon Prime video","Zoom
 Meet
-Skype",8,Car,Liceo Scientifico,2001,42,2,1,Blue,"Cat
-Dog",165,189,170,Red,Brown,Female,58,10,Dog,Right
-98,Often useful,"e-mail
-whatsapp",WhatsApp,You Tube,Netflix,Meet,4,Car,Istituto tecnico settore tecnologico,2000,43,3,0,Sky blue,Dog,167,170,185,Blond,Blue,Male,76,5,Bear,Right
-99,Sometimes helpful,"whatsapp
+Skype",8,"Car","Liceo Scientifico",2001,42,2,"1","Blue","Cat
+Dog",165,189,170,"Red","Female","Female",58,10,"Dog"
+"98",98,"Often useful","e-mail
+whatsapp","WhatsApp","You Tube","Netflix","Meet",4,"Car","Istituto tecnico settore tecnologico",2000,43,3,"0","Sky blue","Dog",167,170,185,"Blond","Male","Male",76,5,"Bear"
+"99",99,"Sometimes helpful","whatsapp
 Altro","WhatsApp
 Altro","You Tube
 Instagram
-Altro",Amazon Prime video,Meet,6,Car,Istituto tecnico settore tecnologico,2001,39,5,0,Blue,"Cat
+Altro","Amazon Prime video","Meet",6,"Car","Istituto tecnico settore tecnologico",2001,39,5,"0","Blue","Cat
 Dog
-Birds",160,180,161,Brown,Brown,Female,68,7,Dog,Right
-100,Often useful,"e-mail
+Birds",160,180,161,"Brown","Female","Female",68,7,"Dog"
+"100",100,"Often useful","e-mail
 whatsapp","WhatsApp
 Messsanger","You Tube
 Instagram
-Facebook",Netflix,Meet,7,Car,Liceo Scientifico,1996,42,4,0,Black,None,158,160,171,Black,Brown,Male,91,8,Dog,Right
-101,Sometimes helpful,"e-mail
-whatsapp",WhatsApp,You Tube,Amazon Prime video,Meet,NA,NA,Istituto tecnico settore economico,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Right
-102,Rarely useful,"e-mail
+Facebook","Netflix","Meet",7,"Car","Liceo Scientifico",1996,42,4,"0","Black","None",158,160,171,"Black","Male","Male",91,8,"Dog"
+"101",101,"Sometimes helpful","e-mail
+whatsapp","WhatsApp","You Tube","Amazon Prime video","Meet",NA,NA,"Istituto tecnico settore economico",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"102",102,"Rarely useful","e-mail
 whatsapp
 Altro","WhatsApp
 Altro","You Tube
 Instagram",NA,"Zoom
-Meet",3,Car,Istituto tecnico settore tecnologico,2000,46,8,3,Blue,Cat,165,173,187,Black,Brown,Male,79,10,Lion,Ambidextrous
-103,Often useful,"e-mail
+Meet",3,"Car","Istituto tecnico settore tecnologico",2000,46,8,"3","Blue","Cat",165,173,187,"Black","Male","Male",79,10,"Lion"
+"103",103,"Often useful","e-mail
 whatsapp","WhatsApp
 FaceTime","You Tube
 Instagram
 Facebook
-Linkedin",Netflix,Zoom,3,Walk,Liceo Scientifico,2001,41,3,1,Red,"Dog
+Linkedin","Netflix","Zoom",3,"Walk","Liceo Scientifico",2001,41,3,"1","Red","Dog
 Fish
 Birds
-Other",170,180,170,Brown,Brown,Male,59,12,Puma,Right
-104,Sometimes helpful,"e-mail
+Other",170,180,170,"Brown","Male","Male",59,12,"Puma"
+"104",104,"Sometimes helpful","e-mail
 whatsapp","WhatsApp
 FaceTime
 Google Duo","You Tube
 Twitter
 Instagram","Netflix
-Amazon Prime video",Zoom,10,Car,Liceo Linguistico,2001,40,7,1,Red,None,167,183,174,Brown,Brown,Female,58,8,Lion,Right
-105,Often useful,"e-mail
+Amazon Prime video","Zoom",10,"Car","Liceo Linguistico",2001,40,7,"1","Red","None",167,183,174,"Brown","Female","Female",58,8,"Lion"
+"105",105,"Often useful","e-mail
 skype
 whatsapp
 messaggi","WhatsApp
@@ -678,8 +678,8 @@ Instagram
 Facebook","Netflix
 TimVision","Zoom
 Meet
-Skype",10,Car,Liceo Scientifico,2001,43,3,1,Sky blue,Cat,163,175,173,Brown,Brown,Male,68,9,Eagle,Right
-106,Rarely useful,"e-mail
+Skype",10,"Car","Liceo Scientifico",2001,43,3,"1","Sky blue","Cat",163,175,173,"Brown","Male","Male",68,9,"Eagle"
+"106",106,"Rarely useful","e-mail
 whatsapp
 messaggi
 Telegram","WhatsApp
@@ -687,117 +687,117 @@ Skype
 FaceTime
 Google Duo
 Altro","You Tube
-Instagram",Amazon Prime video,"Zoom
+Instagram","Amazon Prime video","Zoom
 Meet
 Skype
 Duo
-FaceTime",7,Car,Liceo Scientifico,2001,40,6,1,Black,"Dog
+FaceTime",7,"Car","Liceo Scientifico",2001,40,6,"1","Black","Dog
 Birds
-Other",155,170,165,Other,Brown,Non-binary,NA,1,NA,Right
-107,Sometimes helpful,"e-mail
-whatsapp",Altro,"Twitter
+Other",155,170,165,"Other","Female","Female",NA,1,NA
+"107",107,"Sometimes helpful","e-mail
+whatsapp","Altro","Twitter
 Instagram
 Altro",NA,"Zoom
-Meet",4,Car,Other,2001,36,2,1,Sky blue,Cat,162,165,153,Black,Brown,Female,48,11,Cat,Right
-108,Rarely useful,e-mail,"WhatsApp
+Meet",4,"Car","Other",2001,36,2,"1","Sky blue","Cat",162,165,153,"Black","Female","Female",48,11,"Cat"
+"108",108,"Rarely useful","e-mail","WhatsApp
 Altro","You Tube
 Twitter
 Instagram
 Facebook","Netflix
 Amazon Prime video","Zoom
-Meet",2,Walk,Liceo Classico,2001,40,3,2,White,Dog,163,180,170,Blond,Brown,Female,57,8,Lion,Right
-109,Useless,whatsapp,WhatsApp,"You Tube
+Meet",2,"Walk","Liceo Classico",2001,40,3,"2","White","Dog",163,180,170,"Blond","Female","Female",57,8,"Lion"
+"109",109,"Useless","whatsapp","WhatsApp","You Tube
 Twitter
 Instagram","Netflix
 Amazon Prime video","Zoom
 Meet
-Skype",8,Car,Liceo Classico,2001,47,2,1,Sky blue,None,170,189,192,Brown,Green,Male,118,3,Cat,Right
-110,Difficult,"e-mail
+Skype",8,"Car","Liceo Classico",2001,47,2,"1","Sky blue","None",170,189,192,"Brown","Male","Male",118,3,"Cat"
+"110",110,"Difficult","e-mail
 whatsapp","WhatsApp
 FaceTime","You Tube
 Instagram
 Facebook
 Altro","Netflix
-Amazon Prime video",Meet,10,Car,Liceo Classico,2001,43,3,2,White,"Cat
-Dog",175,175,179,Brown,Brown,Male,76,6,Wolf,Right
-111,Often useful,e-mail,"WhatsApp
+Amazon Prime video","Meet",10,"Car","Liceo Classico",2001,43,3,"2","White","Cat
+Dog",175,175,179,"Brown","Male","Male",76,6,"Wolf"
+"111",111,"Often useful","e-mail","WhatsApp
 Skype
 Google Duo","You Tube
 Instagram
 Facebook","Netflix
 Amazon Prime video","Zoom
 Meet
-Skype",5,Train,Liceo Scientifico,2001,40,2,1,Orange,"Dog
-Fish",168,180,170,Brown,Brown,Female,65,8,Cat,Right
-112,Often useful,e-mail,"WhatsApp
+Skype",5,"Train","Liceo Scientifico",2001,40,2,"1","Orange","Dog
+Fish",168,180,170,"Brown","Female","Female",65,8,"Cat"
+"112",112,"Often useful","e-mail","WhatsApp
 Altro","You Tube
-Instagram",Amazon Prime video,"Zoom
-Meet",8,Bus,Liceo Classico,2002,42,3,3,Sky blue,"Cat
-Dog",170,180,180,Brown,Brown,Female,74,2,Panda,Right
-113,Often useful,"e-mail
+Instagram","Amazon Prime video","Zoom
+Meet",8,"Bus","Liceo Classico",2002,42,3,"3","Sky blue","Cat
+Dog",170,180,180,"Brown","Female","Female",74,2,"Panda"
+"113",113,"Often useful","e-mail
 whatsapp","WhatsApp
 Skype
 Google Duo","You Tube
 Twitter
 Instagram","Netflix
 Amazon Prime video
-AppleTV+",Meet,7,Walk,Other,2000,36,3,0,Green,"Cat
-Dog",175,182,162,Brown,Brown,Female,54,3,Fox,Right
-114,Rarely useful,e-mail,Altro,"Instagram
+AppleTV+","Meet",7,"Walk","Other",2000,36,3,"0","Green","Cat
+Dog",175,182,162,"Brown","Female","Female",54,3,"Fox"
+"114",114,"Rarely useful","e-mail","Altro","Instagram
 Facebook","Netflix
-Amazon Prime video",Zoom,7,Car,Istituto Professionale,2000,38,2,1,Sky blue,Dog,160,180,160,Blond,Green,Female,60,5,Dog,Right
-115,Difficult,"e-mail
+Amazon Prime video","Zoom",7,"Car","Istituto Professionale",2000,38,2,"1","Sky blue","Dog",160,180,160,"Blond","Female","Female",60,5,"Dog"
+"115",115,"Difficult","e-mail
 whatsapp","WhatsApp
 Skype
 Altro","You Tube
 Instagram","Netflix
-Amazon Prime video",Meet,1,Car,Liceo Linguistico,2001,35,8,1,Other,"Cat
+Amazon Prime video","Meet",1,"Car","Liceo Linguistico",2001,35,8,"1","Other","Cat
 Dog
-Other",165,170,156,Brown,Green,Female,51,12,Hedgehog,Right
-116,Sometimes helpful,whatsapp,"WhatsApp
+Other",165,170,156,"Brown","Female","Female",51,12,"Hedgehog"
+"116",116,"Sometimes helpful","whatsapp","WhatsApp
 Skype","You Tube
 Instagram
 Facebook",NA,"Zoom
-Skype",7,Walk,Istituto tecnico settore economico,2000,45,5,1,Red,None,160,180,187,Brown,Brown,Male,90,6,lince,Left
-117,Often useful,whatsapp,WhatsApp,Instagram,"Netflix
-Amazon Prime video",Meet,5,Walk,Liceo Linguistico,2002,37,9,1,Red,None,167,178,161,Brown,Brown,Female,45,1,Koala,Right
-118,Difficult,whatsapp,"WhatsApp
+Skype",7,"Walk","Istituto tecnico settore economico",2000,45,5,"1","Red","None",160,180,187,"Brown","Male","Male",90,6,"lince"
+"117",117,"Often useful","whatsapp","WhatsApp","Instagram","Netflix
+Amazon Prime video","Meet",5,"Walk","Liceo Linguistico",2002,37,9,"1","Red","None",167,178,161,"Brown","Female","Female",45,1,"Koala"
+"118",118,"Difficult","whatsapp","WhatsApp
 FaceTime","You Tube
-Instagram",Netflix,"Zoom
+Instagram","Netflix","Zoom
 Skype
-FaceTime",6,Train,Liceo Linguistico,2001,37,6,1,Black,None,163,179,165,Brown,Green,Female,49,3,Horse,Right
-119,Often useful,e-mail,"WhatsApp
-FaceTime",Instagram,"Netflix
+FaceTime",6,"Train","Liceo Linguistico",2001,37,6,"1","Black","None",163,179,165,"Brown","Female","Female",49,3,"Horse"
+"119",119,"Often useful","e-mail","WhatsApp
+FaceTime","Instagram","Netflix
 Amazon Prime video","Zoom
-Meet",4,Train,Liceo Classico,2001,38,2,3,Pink,None,165,180,170,Blond,Green,Female,58,5,Cat,Right
-120,Often useful,"e-mail
+Meet",4,"Train","Liceo Classico",2001,38,2,"3","Pink","None",165,180,170,"Blond","Female","Female",58,5,"Cat"
+"120",120,"Often useful","e-mail
 whatsapp","FaceTime
 Altro","You Tube
 Instagram
 Facebook","Netflix
 Amazon Prime video","Zoom
-Meet",3,Bus,Other,2001,39,5,2,Black,Dog,165,NA,165,Brown,Brown,NA,60,9,Koala,Ambidextrous
-121,Difficult,e-mail,"Skype
+Meet",3,"Bus","Other",2001,39,5,"2","Black","Dog",165,NA,165,"Brown",NA,NA,60,9,"Koala"
+"121",121,"Difficult","e-mail","Skype
 Google Duo
 Altro","You Tube
 Instagram
 Facebook","Netflix
 Amazon Prime video","Zoom
 Meet
-Skype",4,Bicycle,Liceo Linguistico,2001,39,3,3,Green,None,177,185,170,Blond,Green,Female,67,11,Dolphin,Right
-122,Sometimes helpful,"e-mail
+Skype",4,"Bicycle","Liceo Linguistico",2001,39,3,"3","Green","None",177,185,170,"Blond","Female","Female",67,11,"Dolphin"
+"122",122,"Sometimes helpful","e-mail
 whatsapp","WhatsApp
 Altro","You Tube
 Instagram
 Altro","Amazon Prime video
 TimVision","Zoom
-Meet",8,Car,Other,2001,46,9,1,Red,None,165,182,185,Brown,Brown,Male,85,9,Wolf,Right
-123,Difficult,e-mail,"WhatsApp
+Meet",8,"Car","Other",2001,46,9,"1","Red","None",165,182,185,"Brown","Male","Male",85,9,"Wolf"
+"123",123,"Difficult","e-mail","WhatsApp
 Altro","You Tube
 Twitter
-Instagram",Netflix,"Zoom
-Meet",3,Bus,Liceo Linguistico,2001,39,4,0,Violet,Cat,155,178,163,Brown,Brown,Female,50,2,Koala,Right
-124,Often useful,"e-mail
+Instagram","Netflix","Zoom
+Meet",3,"Bus","Liceo Linguistico",2001,39,4,"0","Violet","Cat",155,178,163,"Brown","Female","Female",50,2,"Koala"
+"124",124,"Often useful","e-mail
 whatsapp","WhatsApp
 Skype
 Altro","You Tube
@@ -806,48 +806,48 @@ Facebook
 Altro","Netflix
 Amazon Prime video","Zoom
 Meet
-Skype",7,Car,Istituto tecnico settore tecnologico,2001,39,7,1,Pink,None,155,180,165,Brown,Brown,Female,54,10,Dog,Right
-125,Rarely useful,whatsapp,"WhatsApp
+Skype",7,"Car","Istituto tecnico settore tecnologico",2001,39,7,"1","Pink","None",155,180,165,"Brown","Female","Female",54,10,"Dog"
+"125",125,"Rarely useful","whatsapp","WhatsApp
 Altro","You Tube
 Instagram
 Facebook","Netflix
 Amazon Prime video","Zoom
-Meet",1,Car,Liceo Scientifico,2001,38,6,1,White,"Cat
+Meet",1,"Car","Liceo Scientifico",2001,38,6,"1","White","Cat
 Dog
-Fish",175,185,181,Blond,Blue,Female,60,6,Dog,Right
-126,Often useful,"e-mail
+Fish",175,185,181,"Blond","Female","Female",60,6,"Dog"
+"126",126,"Often useful","e-mail
 whatsapp","FaceTime
 Altro","You Tube
 Twitter
 Instagram
 Facebook","Netflix
 Amazon Prime video","Zoom
-Meet",3,Car,Liceo Linguistico,2001,40,4,0,Blue,None,170,185,176,Blond,Green,Female,54,1,Dog,Right
-127,Often useful,e-mail,"WhatsApp
+Meet",3,"Car","Liceo Linguistico",2001,40,4,"0","Blue","None",170,185,176,"Blond","Female","Female",54,1,"Dog"
+"127",127,"Often useful","e-mail","WhatsApp
 FaceTime","You Tube
 Instagram
-Facebook",Netflix,Meet,8,Car,Istituto tecnico settore tecnologico,2001,38,10,1,Red,None,170,175,160,Brown,Brown,Female,59,9,Dog,Right
-128,Sometimes helpful,"e-mail
+Facebook","Netflix","Meet",8,"Car","Istituto tecnico settore tecnologico",2001,38,10,"1","Red","None",170,175,160,"Brown","Female","Female",59,9,"Dog"
+"128",128,"Sometimes helpful","e-mail
 skype
 whatsapp","Skype
 FaceTime","You Tube
 Instagram","Netflix
 Amazon Prime video","Zoom
-Meet",7,Car,Liceo Scientifico,2001,39,3,1,Black,Rabbit,155,185,168,Brown,Brown,Female,52,9,Rabbit,Right
-129,Sometimes helpful,"e-mail
+Meet",7,"Car","Liceo Scientifico",2001,39,3,"1","Black","Rabbit",155,185,168,"Brown","Female","Female",52,9,"Rabbit"
+"129",129,"Sometimes helpful","e-mail
 whatsapp","WhatsApp
 Skype
 FaceTime","You Tube
 Instagram
 Facebook","Netflix
 Amazon Prime video","Zoom
-Meet",10,Car,Liceo Scientifico,2001,39,5,1,Yellow,Other,165,180,165,Brown,Brown,Non-binary,60,12,Monkey,Right
-130,Often useful,whatsapp,Altro,"You Tube
+Meet",10,"Car","Liceo Scientifico",2001,39,5,"1","Yellow","Other",165,180,165,"Brown","Female","Female",60,12,"Monkey"
+"130",130,"Often useful","whatsapp","Altro","You Tube
 Instagram","Netflix
 Infinity","Zoom
 Meet
-Skype",7,Bus,Liceo Classico,2001,37,2,0,Red,Cat,165,180,160,Brown,Green,Female,62,8,Horse,Right
-131,Rarely useful,"e-mail
+Skype",7,"Bus","Liceo Classico",2001,37,2,"0","Red","Cat",165,180,160,"Brown","Female","Female",62,8,"Horse"
+"131",131,"Rarely useful","e-mail
 skype
 whatsapp","WhatsApp
 Skype
@@ -855,73 +855,73 @@ Altro","Instagram
 Facebook
 Altro","Netflix
 Amazon Prime video","Zoom
-Meet",9,Car,Liceo Scientifico,1999,39,6,2,Blue,"Cat
+Meet",9,"Car","Liceo Scientifico",1999,39,6,"2","Blue","Cat
 Dog
-Rodents",180,185,172,Brown,Brown,Female,63,5,Wolf,Right
-132,Sometimes helpful,"e-mail
+Rodents",180,185,172,"Brown","Female","Female",63,5,"Wolf"
+"132",132,"Sometimes helpful","e-mail
 whatsapp
 messanger
-Telegram",Altro,"You Tube
+Telegram","Altro","You Tube
 Twitter
 Instagram
 Facebook
 Altro","Netflix
-Amazon Prime video",Meet,9,Train,Liceo Linguistico,1999,38,4,1,Pink,Cat,165,175,163,Red,Blue,Female,50,6,Fox,Right
-133,Difficult,"e-mail
+Amazon Prime video","Meet",9,"Train","Liceo Linguistico",1999,38,4,"1","Pink","Cat",165,175,163,"Red","Female","Female",50,6,"Fox"
+"133",133,"Difficult","e-mail
 whatsapp","WhatsApp
 Skype
 FaceTime
-Altro",Instagram,Netflix,"Zoom
-Skype",2,Walk,Liceo Scientifico,2001,38,2,1,Green,Cat,169,175,163,Blond,Blue,Female,55,5,Alpaca,Right
-134,Sometimes helpful,"e-mail
+Altro","Instagram","Netflix","Zoom
+Skype",2,"Walk","Liceo Scientifico",2001,38,2,"1","Green","Cat",169,175,163,"Blond","Female","Female",55,5,"Alpaca"
+"134",134,"Sometimes helpful","e-mail
 whatsapp","WhatsApp
 Skype","You Tube
-Instagram",Netflix,"Zoom
-Meet",3,Car,Liceo Scientifico,2001,36,2,2,Yellow,None,162,174,163,Brown,Blue,Female,56,3,Panther,Right
-135,Often useful,whatsapp,FaceTime,"You Tube
-Instagram",Netflix,Meet,2,Car,Other,2000,38.5,6,1,Yellow,Dog,166,177,169,Brown,Brown,Female,53,4,Dog,Right
-136,Often useful,"e-mail
+Instagram","Netflix","Zoom
+Meet",3,"Car","Liceo Scientifico",2001,36,2,"2","Yellow","None",162,174,163,"Brown","Female","Female",56,3,"Panther"
+"135",135,"Often useful","whatsapp","FaceTime","You Tube
+Instagram","Netflix","Meet",2,"Car","Other",2000,38.5,6,"1","Yellow","Dog",166,177,169,"Brown","Female","Female",53,4,"Dog"
+"136",136,"Often useful","e-mail
 whatsapp
 Telegram","WhatsApp
 FaceTime
 Altro","You Tube
 Instagram
-Facebook",Netflix,"Zoom
-Meet",9,Car,Liceo Scientifico,2001,39,6,0,Pink,None,167,170,164,Brown,Brown,Female,65,6,Cat,Right
-137,Sometimes helpful,"e-mail
+Facebook","Netflix","Zoom
+Meet",9,"Car","Liceo Scientifico",2001,39,6,"0","Pink","None",167,170,164,"Brown","Female","Female",65,6,"Cat"
+"137",137,"Sometimes helpful","e-mail
 whatsapp","WhatsApp
 Altro","You Tube
 Instagram
-Facebook",Netflix,"Zoom
-Meet",3,Car,Other,2001,37,8,1,Sky blue,None,165,180,160,Blond,Green,Female,58,12,Penguin,Right
-138,Often useful,"e-mail
-whatsapp",WhatsApp,"You Tube
-Instagram",Netflix,"Zoom
-Meet",4,Car,Liceo Scientifico,2001,37,9,0,White,Dog,160,178,166,Brown,Green,Female,50,3,NA,Right
-139,Often useful,e-mail,WhatsApp,Instagram,Netflix,Zoom,9,Train,Istituto tecnico settore economico,2001,37,2,0,Red,Dog,168,175,170,Blond,Green,Female,48,3,Horse,Right
-140,Difficult,"e-mail
+Facebook","Netflix","Zoom
+Meet",3,"Car","Other",2001,37,8,"1","Sky blue","None",165,180,160,"Blond","Female","Female",58,12,"Penguin"
+"138",138,"Often useful","e-mail
+whatsapp","WhatsApp","You Tube
+Instagram","Netflix","Zoom
+Meet",4,"Car","Liceo Scientifico",2001,37,9,"0","White","Dog",160,178,166,"Brown","Female","Female",50,3,NA
+"139",139,"Often useful","e-mail","WhatsApp","Instagram","Netflix","Zoom",9,"Train","Istituto tecnico settore economico",2001,37,2,"0","Red","Dog",168,175,170,"Blond","Female","Female",48,3,"Horse"
+"140",140,"Difficult","e-mail
 whatsapp","WhatsApp
-FaceTime",Instagram,"Netflix
+FaceTime","Instagram","Netflix
 Amazon Prime video","Skype
-FaceTime",3,Car,Other,2001,36,6,1,Sky blue,Dog,150,175,170,Brown,Brown,Female,58,3,Horse,Right
-141,Useless,e-mail,Altro,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Right
-142,Rarely useful,"e-mail
+FaceTime",3,"Car","Other",2001,36,6,"1","Sky blue","Dog",150,175,170,"Brown","Female","Female",58,3,"Horse"
+"141",141,"Useless","e-mail","Altro",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"142",142,"Rarely useful","e-mail
 whatsapp
 messaggi","WhatsApp
 Messsanger","You Tube
 Instagram
 Facebook","Netflix
 Amazon Prime video","Zoom
-Meet",6,Car,Other,2001,43,8,1,Green,Cat,170,170,180,Brown,Brown,Non-binary,95,8,Lion,Right
-143,Sometimes helpful,"e-mail
-whatsapp",WhatsApp,"You Tube
+Meet",6,"Car","Other",2001,43,8,"1","Green","Cat",170,170,180,"Brown","Female","Female",95,8,"Lion"
+"143",143,"Sometimes helpful","e-mail
+whatsapp","WhatsApp","You Tube
 Instagram","Netflix
-Amazon Prime video",Meet,1,Car,Liceo Scientifico,2001,40,2,1,Green,Dog,170,185,175,Blond,Blue,Female,58,4,Lion,Right
-144,Often useful,e-mail,"WhatsApp
-FaceTime",Instagram,"Amazon Prime video
+Amazon Prime video","Meet",1,"Car","Liceo Scientifico",2001,40,2,"1","Green","Dog",170,185,175,"Blond","Female","Female",58,4,"Lion"
+"144",144,"Often useful","e-mail","WhatsApp
+FaceTime","Instagram","Amazon Prime video
 AppleTV+","Zoom
-Meet",9,Car,Other,1999,45,8,1,Green,Dog,165,177,191,Brown,Green,Male,76,9,Dolphin,Right
-145,Often useful,"e-mail
+Meet",9,"Car","Other",1999,45,8,"1","Green","Dog",165,177,191,"Brown","Male","Male",76,9,"Dolphin"
+"145",145,"Often useful","e-mail
 whatsapp
 Altro","WhatsApp
 FaceTime
@@ -930,44 +930,44 @@ Twitter
 Instagram
 Altro","Netflix
 Amazon Prime video","Zoom
-Meet",4,Train,Istituto tecnico settore economico,2001,43,10,1,Blue,None,162,170,174,Black,Brown,Male,70,6,Quokka,Right
-146,Difficult,"e-mail
+Meet",4,"Train","Istituto tecnico settore economico",2001,43,10,"1","Blue","None",162,170,174,"Black","Male","Male",70,6,"Quokka"
+"146",146,"Difficult","e-mail
 skype
 whatsapp","WhatsApp
 Skype","You Tube
 Instagram","Netflix
 Amazon Prime video","Meet
-Skype",8,Bicycle,Liceo Scientifico,2001,43,4,1,Sky blue,None,173,177,183,Black,Blue,Male,72,1,Wolf,Right
-147,Often useful,e-mail,WhatsApp,Instagram,Netflix,Meet,2,Car,Liceo Scientifico,2001,38,10,1,Red,"Cat
-Dog",170,195,172,Brown,Green,Female,55,6,Monkey,Right
-148,Often useful,"e-mail
+Skype",8,"Bicycle","Liceo Scientifico",2001,43,4,"1","Sky blue","None",173,177,183,"Black","Male","Male",72,1,"Wolf"
+"147",147,"Often useful","e-mail","WhatsApp","Instagram","Netflix","Meet",2,"Car","Liceo Scientifico",2001,38,10,"1","Red","Cat
+Dog",170,195,172,"Brown","Female","Female",55,6,"Monkey"
+"148",148,"Often useful","e-mail
 whatsapp","WhatsApp
 FaceTime","Instagram
 Facebook","Netflix
-Amazon Prime video",Meet,6,Car,Liceo Classico,2001,38,6,0,Black,"Cat
-Dog",160,173,167,Brown,Brown,Female,55,9,Cat,Right
-149,Difficult,whatsapp,"WhatsApp
+Amazon Prime video","Meet",6,"Car","Liceo Classico",2001,38,6,"0","Black","Cat
+Dog",160,173,167,"Brown","Female","Female",55,9,"Cat"
+"149",149,"Difficult","whatsapp","WhatsApp
 FaceTime","Instagram
-Altro",Netflix,Meet,7,Car,Liceo Linguistico,2001,42,8,2,Black,Cat,168,185,175,Brown,Blue,Female,72,3,Wolf,Right
-150,Difficult,"e-mail
-whatsapp",FaceTime,Instagram,Netflix,Meet,8,Car,Liceo Classico,1999,37,3,1,Sky blue,Dog,160,180,158,Brown,Green,Female,60,6,Dog,Right
-151,Rarely useful,e-mail,"WhatsApp
+Altro","Netflix","Meet",7,"Car","Liceo Linguistico",2001,42,8,"2","Black","Cat",168,185,175,"Brown","Female","Female",72,3,"Wolf"
+"150",150,"Difficult","e-mail
+whatsapp","FaceTime","Instagram","Netflix","Meet",8,"Car","Liceo Classico",1999,37,3,"1","Sky blue","Dog",160,180,158,"Brown","Female","Female",60,6,"Dog"
+"151",151,"Rarely useful","e-mail","WhatsApp
 FaceTime","You Tube
 Instagram
 Facebook","Netflix
 Amazon Prime video","Zoom
-Meet",3,Walk,Liceo Linguistico,1998,39,NA,>4,Green,None,163,175,164,Red,Brown,Female,54,10,Dog,Right
-152,Sometimes helpful,e-mail,WhatsApp,"You Tube
+Meet",3,"Walk","Liceo Linguistico",1998,39,NA,">4","Green","None",163,175,164,"Red","Female","Female",54,10,"Dog"
+"152",152,"Sometimes helpful","e-mail","WhatsApp","You Tube
 Instagram","Netflix
-Amazon Prime video",Meet,3,Car,Istituto tecnico settore tecnologico,1999,38,4,3,Violet,None,158,180,161,Brown,Brown,Female,58,11,Cat,Right
-153,Difficult,"e-mail
+Amazon Prime video","Meet",3,"Car","Istituto tecnico settore tecnologico",1999,38,4,"3","Violet","None",158,180,161,"Brown","Female","Female",58,11,"Cat"
+"153",153,"Difficult","e-mail
 whatsapp","Skype
 FaceTime","You Tube
 Instagram
 Facebook","Netflix
 Amazon Prime video
-TimVision",Meet,7,Car,Other,1998,37,8,0,Red,Dog,NA,NA,NA,Blond,Green,Female,NA,7,Dolphin,Right
-154,Sometimes helpful,"e-mail
+TimVision","Meet",7,"Car","Other",1998,37,8,"0","Red","Dog",NA,NA,NA,"Blond","Female","Female",NA,7,"Dolphin"
+"154",154,"Sometimes helpful","e-mail
 whatsapp
 messaggi","WhatsApp
 FaceTime","You Tube
@@ -977,30 +977,30 @@ Chili
 Infinity
 AppleTV+","Zoom
 Meet
-FaceTime",7,Train,Liceo Scientifico,2001,39,3,1,Sky blue,None,150,183,167,Brown,Green,Female,57,12,Lion,Right
-155,Sometimes helpful,"e-mail
+FaceTime",7,"Train","Liceo Scientifico",2001,39,3,"1","Sky blue","None",150,183,167,"Brown","Female","Female",57,12,"Lion"
+"155",155,"Sometimes helpful","e-mail
 whatsapp","WhatsApp
 FaceTime","You Tube
 Instagram","Netflix
-Amazon Prime video",Meet,9,Walk,Liceo Linguistico,1998,38,1,1,Blue,"Cat
-Dog",162,169,160,Blond,Brown,Female,60,3,Horse,Right
-156,Rarely useful,whatsapp,"WhatsApp
+Amazon Prime video","Meet",9,"Walk","Liceo Linguistico",1998,38,1,"1","Blue","Cat
+Dog",162,169,160,"Blond","Female","Female",60,3,"Horse"
+"156",156,"Rarely useful","whatsapp","WhatsApp
 FaceTime","Instagram
 Facebook","Netflix
 Amazon Prime video","Zoom
-Meet",8,Car,Liceo Scientifico,2001,38,2,1,Red,None,160,170,162,Brown,Brown,Female,67,1,Dog,Right
-157,Sometimes helpful,"e-mail
+Meet",8,"Car","Liceo Scientifico",2001,38,2,"1","Red","None",160,170,162,"Brown","Female","Female",67,1,"Dog"
+"157",157,"Sometimes helpful","e-mail
 whatsapp","WhatsApp
 Skype","Instagram
-Facebook",Amazon Prime video,"Meet
-Skype",8,Car,Other,2001,39,4,1,Sky blue,Dog,165,NA,166,Brown,Brown,Female,50,5,Dog,Right
-158,Sometimes helpful,whatsapp,Altro,"You Tube
+Facebook","Amazon Prime video","Meet
+Skype",8,"Car","Other",2001,39,4,"1","Sky blue","Dog",165,NA,166,"Brown","Female","Female",50,5,"Dog"
+"158",158,"Sometimes helpful","whatsapp","Altro","You Tube
 Twitter
-Instagram",Netflix,Zoom,5,Car,Liceo Classico,2001,36,3,0,Orange,Cat,155,160,155,Brown,Brown,Female,48,3,Cat,Right
-159,Difficult,e-mail,"WhatsApp
-FaceTime",Instagram,Netflix,"Zoom
-Meet",3,Car,Istituto tecnico settore economico,2000,38,3,0,Red,Dog,164,175,162,Brown,Brown,Female,60,11,Dog,Right
-160,Sometimes helpful,"e-mail
+Instagram","Netflix","Zoom",5,"Car","Liceo Classico",2001,36,3,"0","Orange","Cat",155,160,155,"Brown","Female","Female",48,3,"Cat"
+"159",159,"Difficult","e-mail","WhatsApp
+FaceTime","Instagram","Netflix","Zoom
+Meet",3,"Car","Istituto tecnico settore economico",2000,38,3,"0","Red","Dog",164,175,162,"Brown","Female","Female",60,11,"Dog"
+"160",160,"Sometimes helpful","e-mail
 whatsapp","WhatsApp
 Skype
 FaceTime","You Tube
@@ -1009,37 +1009,37 @@ Instagram","Netflix
 Amazon Prime video
 TimVision","Zoom
 Meet
-Skype",4,Car,Liceo Scientifico,2001,36,3,1,Violet,Cat,165,175,160,Brown,Green,Female,50,3,Cat,Right
-161,Sometimes helpful,"e-mail
+Skype",4,"Car","Liceo Scientifico",2001,36,3,"1","Violet","Cat",165,175,160,"Brown","Female","Female",50,3,"Cat"
+"161",161,"Sometimes helpful","e-mail
 whatsapp","WhatsApp
 Altro","You Tube
 Instagram",NA,"Zoom
-Meet",7,Bus,Liceo Scientifico,2001,39,4,1,Orange,Cat,165,180,163,Blond,Brown,Female,68,5,Cat,Left
-162,Rarely useful,"whatsapp
+Meet",7,"Bus","Liceo Scientifico",2001,39,4,"1","Orange","Cat",165,180,163,"Blond","Female","Female",68,5,"Cat"
+"162",162,"Rarely useful","whatsapp
 Telegram","WhatsApp
 Altro","You Tube
 Instagram","Netflix
-Amazon Prime video",Meet,7,Car,Istituto tecnico settore tecnologico,2001,41,7,1,Black,Fish,163,182,175,Black,Green,Non-binary,85,8,Panda,Right
-163,Often useful,"e-mail
+Amazon Prime video","Meet",7,"Car","Istituto tecnico settore tecnologico",2001,41,7,"1","Black","Fish",163,182,175,"Black","Male","Male",85,8,"Panda"
+"163",163,"Often useful","e-mail
 whatsapp","WhatsApp
-FaceTime",Instagram,Netflix,"Zoom
+FaceTime","Instagram","Netflix","Zoom
 Meet
-FaceTime",7,Car,Liceo Scientifico,2001,36,4,1,Sky blue,Cat,165,175,163,Brown,Brown,Female,45,9,Cat,Right
-164,Sometimes helpful,"e-mail
+FaceTime",7,"Car","Liceo Scientifico",2001,36,4,"1","Sky blue","Cat",165,175,163,"Brown","Female","Female",45,9,"Cat"
+"164",164,"Sometimes helpful","e-mail
 whatsapp","WhatsApp
 Altro","You Tube
 Instagram
 Facebook",NA,"Zoom
-Meet",4,Car,Liceo Scientifico,2001,NA,4,1,Green,None,NA,NA,171,Brown,Brown,Male,64,8,Dog,Right
-165,Often useful,e-mail,FaceTime,Instagram,Netflix,Meet,10,Car,Liceo Scientifico,2001,40,1,0,Black,Cat,168,180,165,Black,Brown,Female,60,5,Quokka,Right
-166,Rarely useful,"e-mail
+Meet",4,"Car","Liceo Scientifico",2001,NA,4,"1","Green","None",NA,NA,171,"Brown","Male","Male",64,8,"Dog"
+"165",165,"Often useful","e-mail","FaceTime","Instagram","Netflix","Meet",10,"Car","Liceo Scientifico",2001,40,1,"0","Black","Cat",168,180,165,"Black","Female","Female",60,5,"Quokka"
+"166",166,"Rarely useful","e-mail
 whatsapp","WhatsApp
 Skype
-FaceTime",Instagram,"Netflix
+FaceTime","Instagram","Netflix
 Amazon Prime video","Zoom
 Meet
-Skype",8,Car,Istituto tecnico settore tecnologico,2001,38,8,1,Sky blue,Cat,163,181,165,Brown,Brown,Female,49,2,Cat,Right
-167,Sometimes helpful,"e-mail
+Skype",8,"Car","Istituto tecnico settore tecnologico",2001,38,8,"1","Sky blue","Cat",163,181,165,"Brown","Female","Female",49,2,"Cat"
+"167",167,"Sometimes helpful","e-mail
 skype
 whatsapp","WhatsApp
 Skype
@@ -1047,41 +1047,41 @@ FaceTime","You Tube
 Instagram
 Facebook","Netflix
 Amazon Prime video","Zoom
-Meet",3,Car,Liceo Classico,2001,38,3,2,White,None,170,175,167,Blond,Brown,Non-binary,50,5,Dog,Right
-168,Sometimes helpful,"e-mail
+Meet",3,"Car","Liceo Classico",2001,38,3,"2","White","None",170,175,167,"Blond","Female","Female",50,5,"Dog"
+"168",168,"Sometimes helpful","e-mail
 whatsapp","WhatsApp
 FaceTime
 Altro","You Tube
 Instagram","Netflix
 Amazon Prime video","Zoom
-Meet",8,Car,Liceo Classico,2001,43,5,2,Green,Dog,165,185,175,Brown,Green,Male,73,10,Dog,Right
-169,Often useful,whatsapp,Altro,Instagram,"Netflix
+Meet",8,"Car","Liceo Classico",2001,43,5,"2","Green","Dog",165,185,175,"Brown","Male","Male",73,10,"Dog"
+"169",169,"Often useful","whatsapp","Altro","Instagram","Netflix
 Amazon Prime video
 Infinity","Zoom
-Meet",5,Car,Liceo Classico,1999,38,3,2,Blue,Dog,158,172,163,Brown,Blue,Female,44,9,Dog,Right
-170,Difficult,"e-mail
+Meet",5,"Car","Liceo Classico",1999,38,3,"2","Blue","Dog",158,172,163,"Brown","Female","Female",44,9,"Dog"
+"170",170,"Difficult","e-mail
 skype
 whatsapp
 messaggi","WhatsApp
 Skype","You Tube
-Instagram",Amazon Prime video,"Zoom
+Instagram","Amazon Prime video","Zoom
 Meet
-Skype",3,Train,Other,2001,40,6,1,Blue,None,160,185,165,Brown,Brown,Female,51,3,Koala,Left
-171,Difficult,"e-mail
+Skype",3,"Train","Other",2001,40,6,"1","Blue","None",160,185,165,"Brown","Female","Female",51,3,"Koala"
+"171",171,"Difficult","e-mail
 whatsapp","WhatsApp
 FaceTime","You Tube
 Instagram
 Facebook","Netflix
 Amazon Prime video","Zoom
-Meet",2,Car,Istituto tecnico settore economico,2000,38,4,1,Violet,Cat,160,165,163,Brown,Brown,Male,60,6,Cat,Right
-172,Often useful,whatsapp,FaceTime,"You Tube
-Instagram",NA,Meet,9,Train,Istituto tecnico settore tecnologico,1996,39,2,1,Red,Dog,160,172,164,Red,Brown,Female,59,11,Monkey,Right
-173,Often useful,"e-mail
-whatsapp",Altro,"Instagram
-Facebook",Amazon Prime video,Zoom,7,Walk,Istituto Professionale,1990,42,3,3,Green,"Dog
+Meet",2,"Car","Istituto tecnico settore economico",2000,38,4,"1","Violet","Cat",160,165,163,"Brown","Male","Male",60,6,"Cat"
+"172",172,"Often useful","whatsapp","FaceTime","You Tube
+Instagram",NA,"Meet",9,"Train","Istituto tecnico settore tecnologico",1996,39,2,"1","Red","Dog",160,172,164,"Red","Female","Female",59,11,"Monkey"
+"173",173,"Often useful","e-mail
+whatsapp","Altro","Instagram
+Facebook","Amazon Prime video","Zoom",7,"Walk","Istituto Professionale",1990,42,3,"3","Green","Dog
 Fish
-Other",170,170,171,Black,Brown,Male,85,10,Lion,Right
-174,Often useful,"e-mail
+Other",170,170,171,"Black","Male","Male",85,10,"Lion"
+"174",174,"Often useful","e-mail
 whatsapp
 messaggi
 Telegram
@@ -1089,58 +1089,58 @@ weChat","WhatsApp
 Skype
 FaceTime","You Tube
 Instagram
-Facebook",Amazon Prime video,"Zoom
+Facebook","Amazon Prime video","Zoom
 Meet
-Skype",7,Car,Istituto tecnico settore economico,1999,39,4,0,Yellow,None,165,167,169,Blond,Blue,Female,70,5,Cat,Right
-175,Often useful,"e-mail
+Skype",7,"Car","Istituto tecnico settore economico",1999,39,4,"0","Yellow","None",165,167,169,"Blond","Female","Female",70,5,"Cat"
+"175",175,"Often useful","e-mail
 whatsapp
-Telegram",FaceTime,Instagram,"Netflix
+Telegram","FaceTime","Instagram","Netflix
 Amazon Prime video
 Infinity
 AppleTV+","Zoom
-Meet",3,Walk,Liceo Scientifico,2001,37,1,2,Orange,Cat,162,183,156,Brown,Brown,Female,NA,8,Lion,Left
-176,Difficult,"whatsapp
+Meet",3,"Walk","Liceo Scientifico",2001,37,1,"2","Orange","Cat",162,183,156,"Brown","Female","Female",NA,8,"Lion"
+"176",176,"Difficult","whatsapp
 messaggi
 snapchat
-Altro",WhatsApp,Instagram,NA,Meet,4,Walk,Liceo Classico,2001,39,1,3,Blue,None,165,194,175,Brown,Brown,Female,57,6,Cat,Right
-177,Rarely useful,"whatsapp
+Altro","WhatsApp","Instagram",NA,"Meet",4,"Walk","Liceo Classico",2001,39,1,"3","Blue","None",165,194,175,"Brown","Female","Female",57,6,"Cat"
+"177",177,"Rarely useful","whatsapp
 Altro","WhatsApp
 FaceTime","Instagram
 Altro","Netflix
 Amazon Prime video","Zoom
-Meet",8,Walk,Liceo Scientifico,2001,39,4,0,Pink,Cat,165,172,158,Brown,Brown,Female,60,10,Cat,Right
-178,Often useful,"e-mail
+Meet",8,"Walk","Liceo Scientifico",2001,39,4,"0","Pink","Cat",165,172,158,"Brown","Female","Female",60,10,"Cat"
+"178",178,"Often useful","e-mail
 whatsapp
 Telegram","WhatsApp
 Altro","You Tube
 Instagram
 Facebook","Netflix
 Amazon Prime video","Zoom
-Meet",3,Walk,Other,1998,37,4,1,Blue,"Dog
-Birds",163,172,165,Brown,Brown,Female,50,9,Dog,Right
-179,Difficult,whatsapp,"WhatsApp
+Meet",3,"Walk","Other",1998,37,4,"1","Blue","Dog
+Birds",163,172,165,"Brown","Female","Female",50,9,"Dog"
+"179",179,"Difficult","whatsapp","WhatsApp
 FaceTime","You Tube
 Instagram","Netflix
 Amazon Prime video","Zoom
-Meet",8,Walk,Liceo Scientifico,2001,38,10,1,White,None,165,180,163,Blond,Blue,Female,50,4,Quokka,Right
-180,Rarely useful,"whatsapp
-Telegram",Skype,"You Tube
+Meet",8,"Walk","Liceo Scientifico",2001,38,10,"1","White","None",165,180,163,"Blond","Female","Female",50,4,"Quokka"
+"180",180,"Rarely useful","whatsapp
+Telegram","Skype","You Tube
 Instagram","Netflix
-Amazon Prime video",Skype,8,Car,Liceo Artistico,1998,42,4,2,Black,Dog,160,160,170,Black,Brown,Male,80,10,Tiger,Right
-181,Sometimes helpful,e-mail,Skype,"You Tube
-Twitter",NA,Skype,6,Walk,Istituto tecnico settore tecnologico,2001,38,3,2,Sky blue,"Cat
+Amazon Prime video","Skype",8,"Car","Liceo Artistico",1998,42,4,"2","Black","Dog",160,160,170,"Black","Male","Male",80,10,"Tiger"
+"181",181,"Sometimes helpful","e-mail","Skype","You Tube
+Twitter",NA,"Skype",6,"Walk","Istituto tecnico settore tecnologico",2001,38,3,"2","Sky blue","Cat
 Dog
-Birds",167,185,164,Brown,Brown,Female,50,8,Quokka,Right
-182,Sometimes helpful,"e-mail
+Birds",167,185,164,"Brown","Female","Female",50,8,"Quokka"
+"182",182,"Sometimes helpful","e-mail
 whatsapp","WhatsApp
 FaceTime","You Tube
 Instagram
 Facebook","Netflix
 Amazon Prime video
 TimVision","Meet
-Skype",5,Car,Other,2000,38,4,1,Green,"Dog
-Other",170,170,168,Black,Green,Female,60,2,Horse,Right
-183,Sometimes helpful,"e-mail
+Skype",5,"Car","Other",2000,38,4,"1","Green","Dog
+Other",170,170,168,"Black","Female","Female",60,2,"Horse"
+"183",183,"Sometimes helpful","e-mail
 whatsapp","WhatsApp
 Skype
 Google Duo","You Tube
@@ -1149,11 +1149,11 @@ Facebook
 Altro",NA,"Zoom
 Meet
 Skype
-Duo",8,Bus,Istituto tecnico settore tecnologico,2001,40,5,1,Violet,Cat,155,180,165,Black,Brown,Female,70,3,Elephans,Right
-184,Often useful,"e-mail
+Duo",8,"Bus","Istituto tecnico settore tecnologico",2001,40,5,"1","Violet","Cat",155,180,165,"Black","Female","Female",70,3,"Elephans"
+"184",184,"Often useful","e-mail
 whatsapp","WhatsApp
-FaceTime",Instagram,Netflix,Meet,2,Car,Liceo Scientifico,2001,39,5,3,NA,None,169,180,167,Brown,Brown,Female,54,12,Dog,Right
-185,Difficult,"e-mail
+FaceTime","Instagram","Netflix","Meet",2,"Car","Liceo Scientifico",2001,39,5,"3",NA,"None",169,180,167,"Brown","Female","Female",54,12,"Dog"
+"185",185,"Difficult","e-mail
 whatsapp
 messaggi","WhatsApp
 Skype
@@ -1166,26 +1166,26 @@ Infinity
 AppleTV+","Zoom
 Meet
 Skype
-FaceTime",7,Car,Other,1994,39,5,1,Blue,Rodents,165,168,170,Brown,Brown,Female,66,4,Panther,Right
-186,Often useful,"e-mail
-whatsapp",WhatsApp,"You Tube
+FaceTime",7,"Car","Other",1994,39,5,"1","Blue","Rodents",165,168,170,"Brown","Female","Female",66,4,"Panther"
+"186",186,"Often useful","e-mail
+whatsapp","WhatsApp","You Tube
 Instagram
-Altro",Netflix,Meet,9,Train,Liceo Scientifico,2001,42,2,1,Blue,None,165,170,170,Brown,Brown,Male,70,3,Dog,Right
-187,Sometimes helpful,"e-mail
+Altro","Netflix","Meet",9,"Train","Liceo Scientifico",2001,42,2,"1","Blue","None",165,170,170,"Brown","Male","Male",70,3,"Dog"
+"187",187,"Sometimes helpful","e-mail
 whatsapp","WhatsApp
 Skype
 FaceTime","Instagram
 Altro","Netflix
 Amazon Prime video","Zoom
-Meet",3,Car sharing,Liceo Scientifico,2002,39,5,2,Red,"Cat
-Dog",170,184,176,Brown,Blue,Female,NA,6,Dolphin,Right
-188,Difficult,e-mail,WhatsApp,"You Tube
+Meet",3,"Car sharing","Liceo Scientifico",2002,39,5,"2","Red","Cat
+Dog",170,184,176,"Brown","Female","Female",NA,6,"Dolphin"
+"188",188,"Difficult","e-mail","WhatsApp","You Tube
 Instagram","Netflix
 Amazon Prime video","Zoom
-Meet",9,Bicycle,Istituto Professionale,2001,39,10,1,Other,None,170,171,168,Blond,Green,Female,64,10,Dog,Right
-189,Often useful,whatsapp,"WhatsApp
-Altro",Instagram,Netflix,Meet,3,Car,Liceo Classico,2001,39,2,1,Green,Cat,158,179,170,Blond,Green,Female,50,6,Horse,Right
-190,Sometimes helpful,"e-mail
+Meet",9,"Bicycle","Istituto Professionale",2001,39,10,"1","Other","None",170,171,168,"Blond","Female","Female",64,10,"Dog"
+"189",189,"Often useful","whatsapp","WhatsApp
+Altro","Instagram","Netflix","Meet",3,"Car","Liceo Classico",2001,39,2,"1","Green","Cat",158,179,170,"Blond","Female","Female",50,6,"Horse"
+"190",190,"Sometimes helpful","e-mail
 whatsapp
 hangouts
 Altro","WhatsApp
@@ -1193,4 +1193,4 @@ FaceTime","You Tube
 Instagram","Netflix
 Amazon Prime video
 AppleTV+","Meet
-FaceTime",5,Car,Other,2000,43,2,1,Black,Dog,160,180,175,Brown,Brown,Male,65,5,Dog,Right
+FaceTime",5,"Car","Other",2000,43,2,"1","Black","Dog",160,180,175,"Brown","Male","Male",65,5,"Dog"
